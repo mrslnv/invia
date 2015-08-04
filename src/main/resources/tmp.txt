@@ -1,0 +1,613 @@
+Link (page:3 hotel:4): http://hotel.invia.cz/turecko/egejska-riviera/maxima-paradise-resort/tour-830520/?id=60235571&airport%5B0%5D=1
+OUTPUT: | 41 560 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Egejská Riviéra, Özdere | Maxima Paradise | http://hotel.invia.cz/turecko/egejska-riviera/maxima-paradise-resort/tour-830520/?id=60235571&airport%5B0%5D=1
+
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/kleopatra-atlas/tour-885682/?id=62891866&airport%5B0%5D=1
+Link (page:2 hotel:1): http://hotel.invia.cz/turecko/alanya/mesut/tour-869294/?id=61196530&airport%5B0%5D=1
+WARNING | 39 870 Kč | 1. dítě 2-12 let A1B-Dvouluzkovy pokoj pro jednotlivce, A2B-Dvouluzkovy pokoj | 1. dítě 2-12 let A1B-Dvouluzkovy pokoj pro jednotlivce, A2B-Dvouluzkovy pokoj | Dospělá osoba
+A2B-Dvouluzkovy pokoj | Turecko, Alanya, Alanya  | Alanya Mesut Hotel | http://hotel.invia.cz/turecko/alanya/mesut/tour-869294/?id=61196530&airport%5B0%5D=1
+
+Link (page:2 hotel:2): http://hotel.invia.cz/turecko/alanya/may-garden/tour-903855/?id=59662487&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/may-garden/tour-903855/?id=59662487&airport%5B0%5D=1
+
+Link (page:2 hotel:3): http://hotel.invia.cz/turecko/egejska-riviera/alish-resort-spa/tour-900729/?id=59137267&airport%5B0%5D=1
+OUTPUT: | 36 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Egejská Riviéra, Kusadasi | Alish Hotel Resort Spa | http://hotel.invia.cz/turecko/egejska-riviera/alish-resort-spa/tour-900729/?id=59137267&airport%5B0%5D=1
+
+Link (page:2 hotel:4): http://hotel.invia.cz/turecko/turecka-riviera/caretta-relax-ex-xeno-relax/tour-887639/?id=58327198&airport%5B0%5D=1
+WARNING | 36 970 Kč | 1. dítě 2-11 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-11 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Alanya, Konakli | Caretta Relax | http://hotel.invia.cz/turecko/turecka-riviera/caretta-relax-ex-xeno-relax/tour-887639/?id=58327198&airport%5B0%5D=1
+
+Link (page:2 hotel:5): http://hotel.invia.cz/recko/korfu/alexandros/tour-941113/?id=65478342&airport%5B0%5D=1
+OUTPUT: | 53 200 Kč | 1. dítě do 11 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (3 dospělých... více | 2. dítě 2-11 let Dvoulůžkový pokoj (2 dospělých + 2 dětí), Dvoulůžkový pokoj Výhled moře (2... více | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Řecko, Korfu, Perama | Alexandros | http://hotel.invia.cz/recko/korfu/alexandros/tour-941113/?id=65478342&airport%5B0%5D=1
+
+Link (page:2 hotel:6): http://hotel.invia.cz/turecko/alanya/blue-fish/tour-885248/?id=67978798&airport%5B0%5D=1
+WARNING | 41 770 Kč | 1. dítě 2-13 let na přistýlce | 1. dítě 2-13 let na přistýlce | Dospělá osoba - pevné lůžko
+1. osoba | Turecko, Turecká Riviéra, Konakli | Blue Fish | http://hotel.invia.cz/turecko/alanya/blue-fish/tour-885248/?id=67978798&airport%5B0%5D=1
+
+Link (page:2 hotel:7): http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+OUTPUT: | 59 060 Kč | 1. dítě do 7 let bungalov s výhledem do zahrady, dvoulůžkový pokoj/pokoj s oddělenými lůžky s... více | 2. dítě do 5 let bungalov s výhledem do zahrady | Dospělá osoba
+bungalov s výhledem do zahrady | Řecko, Rhodos, Ialyssos  | Filerimos | http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+
+Link (page:3 hotel:0): http://hotel.invia.cz/turecko/egejska-riviera/teos-holiday-village/tour-871987/?id=58320528&airport%5B0%5D=1
+WARNING | 36 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 0 dětí), Dvoulůžkový pokoj (3 dospělých... více | Turecko, Egejská Riviéra, Siğacik | Teos Holiday Village | http://hotel.invia.cz/turecko/egejska-riviera/teos-holiday-village/tour-871987/?id=58320528&airport%5B0%5D=1
+Link (page:3 hotel:1): http://hotel.invia.cz/turecko/alanya/oba-star/tour-953988/?id=67798431&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/oba-star/tour-953988/?id=67798431&airport%5B0%5D=1
+Link (page:3 hotel:2): http://hotel.invia.cz/turecko/alanya/sealine/tour-899928/?id=58983528&airport%5B0%5D=1
+OUTPUT: | 45 960 Kč | 1. dítě 2-12 let Suita (2 dospělých + 1 dětí), Suita (3 dospělých + 1 dětí), Suita Promo... více | 2. dítě 2-6 let Suita (2 dospělých + 2 dětí), Suita Promo (2 dospělých + 2 dětí) | Dospělá osoba
+Suita (2 dospělých + 1 dětí), Suita (2 dospělých + 2 dětí), Suita (3... více | Turecko, Alanya, Alanya  | Sealine | http://hotel.invia.cz/turecko/alanya/sealine/tour-899928/?id=58983528&airport%5B0%5D=1
+Link (page:3 hotel:3): http://hotel.invia.cz/turecko/kemer/himeros-club/tour-946573/?id=68021121&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/kemer/himeros-club/tour-946573/?id=68021121&airport%5B0%5D=1
+Link (page:3 hotel:4): http://hotel.invia.cz/turecko/kemer/himeros-life/tour-946574/?id=68021142&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/kemer/himeros-life/tour-946574/?id=68021142&airport%5B0%5D=1
+Link (page:3 hotel:5): http://hotel.invia.cz/turecko/marmaris/club-munamar-beach-resort/tour-933294/?id=64320176&airport%5B0%5D=1
+Link (page:3 hotel:5): http://hotel.invia.cz/turecko/marmaris/club-munamar-beach-resort/tour-933294/?id=64320176&airport%5B0%5D=1
+
+
+Link (page:3 hotel:5): http://hotel.invia.cz/turecko/alanya/sunstar-beach/tour-922013/?id=62995662&airport%5B0%5D=1
+WARNING | 36 270 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Seaside... více | Turecko, Alanya, Kargıcak  | Sunstar Beach | http://hotel.invia.cz/turecko/alanya/sunstar-beach/tour-922013/?id=62995662&airport%5B0%5D=1
+Link (page:3 hotel:6): http://hotel.invia.cz/turecko/alanya/sunstar-beach/tour-922013/?id=62995662&airport%5B0%5D=1
+WARNING | 36 270 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Seaside... více | Turecko, Alanya, Kargıcak  | Sunstar Beach | http://hotel.invia.cz/turecko/alanya/sunstar-beach/tour-922013/?id=62995662&airport%5B0%5D=1
+Link (page:3 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/cactus-fleur-beach/tour-949359/?id=66871660&airport%5B0%5D=1
+WARNING | 36 570 Kč | 1. dítě do 13 let na přistýlce za letenku | 1. dítě do 13 let na přistýlce za letenku | Dospělá osoba
+v DP | Turecko, Bodrum | Cactus Fleur Beach Club | http://hotel.invia.cz/turecko/egejska-riviera/cactus-fleur-beach/tour-949359/?id=66871660&airport%5B0%5D=1
+Link (page:4 hotel:0): http://hotel.invia.cz/turecko/egejska-riviera/surmeli-efes/tour-830545/?id=60235717&airport%5B0%5D=1
+OUTPUT: | 50 160 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Egejská Riviéra, Kusadasi  | Surmeli Efes | http://hotel.invia.cz/turecko/egejska-riviera/surmeli-efes/tour-830545/?id=60235717&airport%5B0%5D=1
+Link (page:4 hotel:1): http://hotel.invia.cz/turecko/alanya/bone-club-svs/tour-912738/?id=61487376&airport%5B0%5D=1
+
+OUTPUT: | 43 768 Kč | 1. dítě 2-14 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-14 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Turecko, Alanya, Avsallar  | Bone Club Svs | http://hotel.invia.cz/turecko/alanya/bone-club-svs/tour-912738/?id=61487376&airport%5B0%5D=1
+
+Link (page:4 hotel:2): http://hotel.invia.cz/turecko/egejska-riviera/sole-santa-maria/tour-903356/?id=59553546&airport%5B0%5D=1
+WARNING | 37 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Egejská Riviéra, Kusadasi | Luana Santa María | http://hotel.invia.cz/turecko/egejska-riviera/sole-santa-maria/tour-903356/?id=59553546&airport%5B0%5D=1
+Link (page:4 hotel:3): http://hotel.invia.cz/turecko/alanya/atlas-beach/tour-823422/?id=59977233&airport%5B0%5D=1
+WARNING | 36 890 Kč | 1. dítě 2-13 let Dvoulůžkový pokoj s přistýlkou | 1. dítě 2-13 let Dvoulůžkový pokoj s přistýlkou | Dospělá osoba
+1. a 2. os. v pokoji | Turecko, Alanya, Payallar  | Hotel Atlas Beach | http://hotel.invia.cz/turecko/alanya/atlas-beach/tour-823422/?id=59977233&airport%5B0%5D=1
+Link (page:4 hotel:4): http://hotel.invia.cz/turecko/bodrum/rexene-resort/tour-932282/?id=64171326&airport%5B0%5D=1
+OUTPUT: | 55 960 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 1... více | 2. dítě 2-12 let Rodinný pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 2... více | Turecko, Bodrum | Rexene Resort | http://hotel.invia.cz/turecko/bodrum/rexene-resort/tour-932282/?id=64171326&airport%5B0%5D=1
+Link (page:4 hotel:5): http://hotel.invia.cz/turecko/alanya/boulevard/tour-839163/?id=67503493&airport%5B0%5D=1
+OUTPUT: | 51 790 Kč | 1. dítě 7-13 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (3 dospělých... více | 2. dítě 2-6 let Dvoulůžkový pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Alanya, Alanya  | Boulevard | http://hotel.invia.cz/turecko/alanya/boulevard/tour-839163/?id=67503493&airport%5B0%5D=1
+Link (page:4 hotel:6): http://hotel.invia.cz/turecko/bodrum/rexene-resort/tour-932282/?id=64171326&airport%5B0%5D=1
+OUTPUT: | 55 960 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 1... více | 2. dítě 2-12 let Rodinný pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 2... více | Turecko, Bodrum | Rexene Resort | http://hotel.invia.cz/turecko/bodrum/rexene-resort/tour-932282/?id=64171326&airport%5B0%5D=1
+Link (page:4 hotel:7): http://hotel.invia.cz/turecko/alanya/boulevard/tour-839163/?id=67503493&airport%5B0%5D=1
+OUTPUT: | 51 790 Kč | 1. dítě 7-13 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (3 dospělých... více | 2. dítě 2-6 let Dvoulůžkový pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Alanya, Alanya  | Boulevard | http://hotel.invia.cz/turecko/alanya/boulevard/tour-839163/?id=67503493&airport%5B0%5D=1
+Link (page:5 hotel:0): http://hotel.invia.cz/turecko/egejska-riviera/arora/tour-830512/?id=60235416&airport%5B0%5D=1
+WARNING | 36 970 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Egejská Riviéra, Kusadasi  | Arora | http://hotel.invia.cz/turecko/egejska-riviera/arora/tour-830512/?id=60235416&airport%5B0%5D=1
+Link (page:5 hotel:1): http://hotel.invia.cz/turecko/side/palm-world/tour-918078/?id=62150145&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/side/palm-world/tour-918078/?id=62150145&airport%5B0%5D=1
+Link (page:5 hotel:2): http://hotel.invia.cz/turecko/alanya/saritas/tour-896437/?id=58243549&airport%5B0%5D=1
+OUTPUT: | 51 760 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | 2. dítě 2-12 let Rodinný pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj (2 dospělých + 2 dětí) | Turecko, Alanya, Alanya  | Saritas | http://hotel.invia.cz/turecko/alanya/saritas/tour-896437/?id=58243549&airport%5B0%5D=1
+Link (page:5 hotel:3): http://hotel.invia.cz/turecko/turecka-riviera/pegasos-royal/tour-831440/?id=68296563&airport%5B0%5D=1
+OUTPUT: | 44 360 Kč | 1. dítě do 14 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 14 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Alanya, Avsallar  | Suntopia Pegasos Royal & Resort | http://hotel.invia.cz/turecko/turecka-riviera/pegasos-royal/tour-831440/?id=68296563&airport%5B0%5D=1
+Link (page:5 hotel:4): http://hotel.invia.cz/turecko/alanya/monte-carlo/tour-723993/?id=67142089&airport%5B0%5D=1
+OUTPUT: | 53 160 Kč | 1. dítě 7-12 let Rodinný pokoj pro 3-5 osob, Standardní pokoj pro 2-4 osoby, Standardní pokoj... více | 2. dítě do 12 let Standardní pokoj pro 2-4 osoby | Dospělá osoba
+Rodinný pokoj pro 3-5 osob | Turecko, Alanya, Alanya  | Hotel Monte Carlo | http://hotel.invia.cz/turecko/alanya/monte-carlo/tour-723993/?id=67142089&airport%5B0%5D=1
+Link (page:5 hotel:5): http://hotel.invia.cz/turecko/alanya/elysee/tour-834208/?id=58334635&airport%5B0%5D=1
+WARNING | 38 550 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 0 dětí), Dvoulůžkový pokoj (3 dospělých... více | Turecko, Alanya, Alanya  | Elysée | http://hotel.invia.cz/turecko/alanya/elysee/tour-834208/?id=58334635&airport%5B0%5D=1
+Link (page:5 hotel:6): http://hotel.invia.cz/turecko/alanya/elysee/tour-834208/?id=58334635&airport%5B0%5D=1
+WARNING | 38 550 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 0 dětí), Dvoulůžkový pokoj (3 dospělých... více | Turecko, Alanya, Alanya  | Elysée | http://hotel.invia.cz/turecko/alanya/elysee/tour-834208/?id=58334635&airport%5B0%5D=1
+Link (page:5 hotel:7): http://hotel.invia.cz/recko/kreta/diogenis-palace/tour-628797/?id=65697514&airport%5B0%5D=1
+OUTPUT: | 91 860 Kč | 1. dítě do 13 let standardní pokoj, dvoulůžkový pokoj/pokoj s oddělenými lůžky, pokoj s... více | 2. dítě do 5 let standardní pokoj, dvoulůžkový pokoj/pokoj s oddělenými lůžky, Standardní... více | Dospělá osoba
+Rodinný Pokoj | Řecko, Kréta, Kato Gouves  | Diogenis Palace | http://hotel.invia.cz/recko/kreta/diogenis-palace/tour-628797/?id=65697514&airport%5B0%5D=1
+
+
+Link (page:6 hotel:0): http://hotel.invia.cz/turecko/marmaris/l-etoile/tour-905680/?id=62259570&airport%5B0%5D=1
+WARNING | 37 570 Kč | 1. dítě do 13 let na přistýlce mladší | 1. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Marmaris, İçmeler | L Etoile | http://hotel.invia.cz/turecko/marmaris/l-etoile/tour-905680/?id=62259570&airport%5B0%5D=1
+Link (page:6 hotel:1): http://hotel.invia.cz/turecko/alanya/kleopatra-ada/tour-792324/?id=60003308&airport%5B0%5D=1
+WARNING | 42 250 Kč | 1. dítě 7-13 let Dvoulůžkový pokoj s přistýlkou | 1. dítě 7-13 let Dvoulůžkový pokoj s přistýlkou | Dospělá osoba
+Dvoulůžkový pokoj, Dvoulůžkový pokoj s přistýlkou | Turecko, Alanya, Alanya  | Hotel Kleopatra Ada | http://hotel.invia.cz/turecko/alanya/kleopatra-ada/tour-792324/?id=60003308&airport%5B0%5D=1
+Link (page:6 hotel:2): http://hotel.invia.cz/turecko/alanya/anitas/tour-905930/?id=60324357&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/anitas/tour-905930/?id=60324357&airport%5B0%5D=1
+
+
+Link (page:6 hotel:2): http://hotel.invia.cz/turecko/alanya/anitas/tour-905930/?id=60324357&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/anitas/tour-905930/?id=60324357&airport%5B0%5D=1
+Link (page:6 hotel:3): http://hotel.invia.cz/turecko/alanya/annabella-park/tour-830940/?id=59572430&airport%5B0%5D=1
+OUTPUT: | 44 760 Kč | 1. dítě do 14 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 7 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Alanya, Avsallar  | Annabella Park | http://hotel.invia.cz/turecko/alanya/annabella-park/tour-830940/?id=59572430&airport%5B0%5D=1
+Link (page:6 hotel:4): http://hotel.invia.cz/turecko/turecka-riviera/cenger-beach-resort-spa/tour-830985/?id=59576899&airport%5B0%5D=1
+OUTPUT: | 44 760 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Side, Kizilot  | Cenger Beach Resort | http://hotel.invia.cz/turecko/turecka-riviera/cenger-beach-resort-spa/tour-830985/?id=59576899&airport%5B0%5D=1
+Link (page:6 hotel:5): http://hotel.invia.cz/turecko/alanya/lonicera-garden-ex-kosdere/tour-954882/?id=67953050&airport%5B0%5D=1
+OUTPUT: | 55 360 Kč | 1. dítě do 12 let na přistýlce mladší | 2. dítě do 12 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Alanya, Avsallar  | Lonicera Garden (Dříve Kosdere) - Rodinný Pokoj | http://hotel.invia.cz/turecko/alanya/lonicera-garden-ex-kosdere/tour-954882/?id=67953050&airport%5B0%5D=1
+Link (page:6 hotel:6): http://hotel.invia.cz/turecko/alanya/elysee/tour-834208/?id=58334635&airport%5B0%5D=1
+
+Link (page:6 hotel:6): http://hotel.invia.cz/recko/kreta/evelyn-beach/tour-787615/?id=59075598&airport%5B0%5D=1
+WARNING | 38 780 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko
+1. osoba | Řecko, Kréta, Chersonissos  | Evelyn Beach | http://hotel.invia.cz/recko/kreta/evelyn-beach/tour-787615/?id=59075598&airport%5B0%5D=1
+Link (page:6 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/akbulut/tour-929515/?id=64001576&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/egejska-riviera/akbulut/tour-929515/?id=64001576&airport%5B0%5D=1
+Link (page:7 hotel:0): http://hotel.invia.cz/turecko/egejska-riviera/panorama-hill/tour-902001/?id=59304331&airport%5B0%5D=1
+OUTPUT: | 39 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Egejská Riviéra, Kusadasi | Panorama Hill | http://hotel.invia.cz/turecko/egejska-riviera/panorama-hill/tour-902001/?id=59304331&airport%5B0%5D=1
+Link (page:7 hotel:1): http://hotel.invia.cz/turecko/side/la-vitas/tour-843050/?id=57346248&airport%5B0%5D=1
+OUTPUT: | 38 070 Kč | 1. dítě 2-11 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | 1. dítě 2-11 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Side, Side  | La Vitas | http://hotel.invia.cz/turecko/side/la-vitas/tour-843050/?id=57346248&airport%5B0%5D=1
+Link (page:7 hotel:2): http://hotel.invia.cz/turecko/alanya/mirabell/tour-948104/?id=67978808&airport%5B0%5D=1
+OUTPUT: | 58 160 Kč | 1. dítě 2-12 let na přistýlce | 2. dítě 2-12 let na přistýlce | Dospělá osoba - pevné lůžko | Turecko, Turecká Riviéra, Alanya  | Mirabell | http://hotel.invia.cz/turecko/alanya/mirabell/tour-948104/?id=67978808&airport%5B0%5D=1
+Link (page:7 hotel:3): http://hotel.invia.cz/turecko/bodrum/dragut-point-south/tour-876351/?id=58350781&airport%5B0%5D=1
+WARNING | 38 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Bodrum, Turgutreis | Dragut Point South | http://hotel.invia.cz/turecko/bodrum/dragut-point-south/tour-876351/?id=58350781&airport%5B0%5D=1
+Link (page:7 hotel:4): http://hotel.invia.cz/turecko/alanya/kleopatra-royal-palm/tour-649348/?id=57394834&airport%5B0%5D=1
+WARNING | 38 970 Kč | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/1 | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/1 | Dospělá osoba ve 2lůžkovém pokoji
+pokoj - 2/1 | Turecko, Alanya, Alanya  | Kleopatra Royal Palm | http://hotel.invia.cz/turecko/alanya/kleopatra-royal-palm/tour-649348/?id=57394834&airport%5B0%5D=1
+Link (page:7 hotel:5): http://hotel.invia.cz/turecko/alanya/tac-premier-hotel-spa/tour-337573/?id=57366323&airport%5B0%5D=1
+OUTPUT: | 51 760 Kč | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/2 | 2. dítě 3-13 let na přistýlce, 2lůžkový pokoj - 2/2 | Dospělá osoba ve 2lůžkovém pokoji
+pokoj - 2/2 | Turecko, Alanya, Alanya  | Tac Premier Hotel And Spa | http://hotel.invia.cz/turecko/alanya/tac-premier-hotel-spa/tour-337573/?id=57366323&airport%5B0%5D=1
+Link (page:7 hotel:6): http://hotel.invia.cz/turecko/alanya/kleopatra-tac-anex/tour-914649/?id=61987020&airport%5B0%5D=1
+OUTPUT: | 52 360 Kč | 1. dítě 2-13 let Rodinný pokoj 2 ložnice (2 dospělých + 1 dětí), Rodinný pokoj 2 ložnice (3... více | 2. dítě 2-13 let Rodinný pokoj 2 ložnice (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj 2 ložnice (2 dospělých + 1 dětí), Rodinný pokoj 2 ložnice (2... více | Turecko, Alanya | Kleopatra Tac | http://hotel.invia.cz/turecko/alanya/kleopatra-tac-anex/tour-914649/?id=61987020&airport%5B0%5D=1
+Link (page:7 hotel:7): http://hotel.invia.cz/turecko/alanya/kleopatra-micador/tour-886779/?id=62425494&airport%5B0%5D=1
+WARNING | 43 170 Kč | 1. dítě 2-13 let na přistýlce | 1. dítě 2-13 let na přistýlce | Dospělá osoba | Turecko, Turecká Riviéra, Alanya  | Kleopatra Micador | http://hotel.invia.cz/turecko/alanya/kleopatra-micador/tour-886779/?id=62425494&airport%5B0%5D=1
+Link (page:8 hotel:0): http://hotel.invia.cz/turecko/alanya/lioness/tour-945467/?id=67974875&airport%5B0%5D=1
+OUTPUT: | 62 160 Kč | 1. dítě 2-13 let na přistýlce | 2. dítě 2-13 let na přistýlce | Dospělá osoba v 1lůžkovém pokoji | Turecko, Turecká Riviéra, Avsallar  | Lioness | http://hotel.invia.cz/turecko/alanya/lioness/tour-945467/?id=67974875&airport%5B0%5D=1
+Link (page:8 hotel:1): http://hotel.invia.cz/turecko/egejska-riviera/grand-efe/tour-921235/?id=62891762&airport%5B0%5D=1
+WARNING | 38 170 Kč | 1. dítě do 13 let na přistýlce mladší | 1. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Egejská Riviéra, Özdere | Grand Efe | http://hotel.invia.cz/turecko/egejska-riviera/grand-efe/tour-921235/?id=62891762&airport%5B0%5D=1
+Link (page:8 hotel:2): http://hotel.invia.cz/turecko/turecka-riviera/club-tayyarbey/tour-786898/?id=59158093&airport%5B0%5D=1
+OUTPUT: | 70 476 Kč | 1. dítě 2-6 let A1A-Dvouluzkovy pokoj pro jednotlivce, A2A-Dvouluzkovy pokoj | 2. dítě do 11 let A1A-Dvouluzkovy pokoj pro jednotlivce | Dospělá osoba
+A1A-Dvouluzkovy pokoj pro jednotlivce | Turecko, Side, Çolakli  | Smartline Club Tayyarbey | http://hotel.invia.cz/turecko/turecka-riviera/club-tayyarbey/tour-786898/?id=59158093&airport%5B0%5D=1
+Link (page:8 hotel:3): http://hotel.invia.cz/recko/zakynthos/majestic-spa/tour-957561/?id=68280421&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/zakynthos/majestic-spa/tour-957561/?id=68280421&airport%5B0%5D=1
+Link (page:8 hotel:4): http://hotel.invia.cz/turecko/alanya/club-titan/tour-899916/?id=58978272&airport%5B0%5D=1
+WARNING | 51 070 Kč | 1. dítě 2-12 let A1A-Dvouluzkovy pokoj pro jednotlivce, A2A-Dvouluzkovy pokoj | 1. dítě 2-12 let A1A-Dvouluzkovy pokoj pro jednotlivce, A2A-Dvouluzkovy pokoj | Dospělá osoba
+A1A-Dvouluzkovy pokoj pro jednotlivce | Turecko, Alanya, Kargıcak  | Club Hotel Titan | http://hotel.invia.cz/turecko/alanya/club-titan/tour-899916/?id=58978272&airport%5B0%5D=1
+Link (page:8 hotel:5): http://hotel.invia.cz/recko/kreta/marilena/tour-802873/?id=63587941&airport%5B0%5D=1
+WARNING | 47 668 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko
+1. osoba | Řecko, Kréta, Ammoudara  | Marilena | http://hotel.invia.cz/recko/kreta/marilena/tour-802873/?id=63587941&airport%5B0%5D=1
+Link (page:8 hotel:6): http://hotel.invia.cz/recko/rhodos/ocean-blue/tour-689317/?id=63757934&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/ocean-blue/tour-689317/?id=63757934&airport%5B0%5D=1
+Link (page:8 hotel:7): http://hotel.invia.cz/turecko/alanya/akin-paradise/tour-912718/?id=61486869&airport%5B0%5D=1
+OUTPUT: | 45 868 Kč | 1. dítě 2-14 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-14 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Turecko, Alanya, Okurcalar  | Akin Paradise | http://hotel.invia.cz/turecko/alanya/akin-paradise/tour-912718/?id=61486869&airport%5B0%5D=1
+Link (page:9 hotel:0): http://hotel.invia.cz/turecko/alanya/grand-astor/tour-946570/?id=68007305&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/grand-astor/tour-946570/?id=68007305&airport%5B0%5D=1
+Link (page:9 hotel:1): http://hotel.invia.cz/turecko/alanya/drita/tour-925552/?id=63669642&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/drita/tour-925552/?id=63669642&airport%5B0%5D=1
+Link (page:9 hotel:2): http://hotel.invia.cz/turecko/egejska-riviera/sentinus/tour-873039/?id=58320410&airport%5B0%5D=1
+OUTPUT: | 54 120 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Seaside... více | 2. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj Seaside (2 dospělých + 0 dětí), Dvoulůžkový pokoj Seaside... více | Turecko, Egejská Riviéra, Kusadasi | Sentinus | http://hotel.invia.cz/turecko/egejska-riviera/sentinus/tour-873039/?id=58320410&airport%5B0%5D=1
+
+Link (page:9 hotel:2): http://hotel.invia.cz/turecko/egejska-riviera/sentinus/tour-873039/?id=58320410&airport%5B0%5D=1
+OUTPUT: | 54 120 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Seaside... více | 2. dítě 2-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj Seaside (2 dospělých + 0 dětí), Dvoulůžkový pokoj Seaside... více | Turecko, Egejská Riviéra, Kusadasi | Sentinus | http://hotel.invia.cz/turecko/egejska-riviera/sentinus/tour-873039/?id=58320410&airport%5B0%5D=1
+Link (page:9 hotel:3): http://hotel.invia.cz/turecko/alanya/infinity-beach/tour-924383/?id=63488514&airport%5B0%5D=1
+OUTPUT: | 51 960 Kč | 1. dítě 7-12 let odlet: Praha | 2. dítě 2-6 let odlet: Praha | Dospělá osoba
+min. 2 na pokoji | Turecko, Alanya, Payallar  | Hotel Infinity Beach | http://hotel.invia.cz/turecko/alanya/infinity-beach/tour-924383/?id=63488514&airport%5B0%5D=1
+Link (page:9 hotel:4): http://hotel.invia.cz/turecko/alanya/krizantem/tour-827409/?id=57504093&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/krizantem/tour-827409/?id=57504093&airport%5B0%5D=1
+Link (page:9 hotel:5): http://hotel.invia.cz/turecko/-/buyuk-anadolu-didim-resort/tour-892690/?id=57376128&airport%5B0%5D=1
+OUTPUT: | 53 460 Kč | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/2 | 2. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/2 | Dospělá osoba ve 2lůžkovém pokoji
+pokoj - 2/2 | Turecko, Bodrum | Buyuk Anadolu Didim | http://hotel.invia.cz/turecko/-/buyuk-anadolu-didim-resort/tour-892690/?id=57376128&airport%5B0%5D=1
+Link (page:9 hotel:6): http://hotel.invia.cz/turecko/bodrum/golden-age/tour-832832/?id=62795139&airport%5B0%5D=1
+OUTPUT: | 51 560 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Yalıkavak  | Golden Age | http://hotel.invia.cz/turecko/bodrum/golden-age/tour-832832/?id=62795139&airport%5B0%5D=1
+Link (page:9 hotel:7): http://hotel.invia.cz/turecko/turecka-riviera/magnolia/tour-797275/?id=66089642&airport%5B0%5D=1
+OUTPUT: | 52 203 Kč | 1. dítě 2-6 let A2A-Familienzimmer / 2 Räume, A3A-Familienzimmer / 2 Räume,... více | 2. dítě 7-14 let A2A-Familienzimmer / 2 Räume | Dospělá osoba
+A2A-Familienzimmer / 2 Räume | Turecko, Alanya, Incekum  | Magnolia | http://hotel.invia.cz/turecko/turecka-riviera/magnolia/tour-797275/?id=66089642&airport%5B0%5D=1
+Link (page:10 hotel:0): http://hotel.invia.cz/turecko/egejska-riviera/maxima-bay/tour-830515/?id=60235497&airport%5B0%5D=1
+OUTPUT: | 51 260 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Egejská Riviéra, Özdere | Maxima Bay | http://hotel.invia.cz/turecko/egejska-riviera/maxima-bay/tour-830515/?id=60235497&airport%5B0%5D=1
+Link (page:10 hotel:1): http://hotel.invia.cz/turecko/kemer/himeros-beach/tour-946572/?id=68021099&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/kemer/himeros-beach/tour-946572/?id=68021099&airport%5B0%5D=1
+Link (page:10 hotel:2): http://hotel.invia.cz/recko/kos/apollon/tour-828978/?id=59140489&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kos/apollon/tour-828978/?id=59140489&airport%5B0%5D=1
+Link (page:10 hotel:3): http://hotel.invia.cz/recko/kreta/klio-apartmany/tour-845455/?id=61379102&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kreta/klio-apartmany/tour-845455/?id=61379102&airport%5B0%5D=1
+Link (page:10 hotel:4): http://hotel.invia.cz/turecko/alanya/caretta-beach/tour-724035/?id=67081261&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/caretta-beach/tour-724035/?id=67081261&airport%5B0%5D=1
+Link (page:10 hotel:5): http://hotel.invia.cz/turecko/bodrum/woxxie-ex-feye-pinara/tour-832825/?id=60272020&airport%5B0%5D=1
+OUTPUT: | 46 560 Kč | 1. dítě do 13 let na přistýlce mladsi | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Turgutreis  | Woxxie | http://hotel.invia.cz/turecko/bodrum/woxxie-ex-feye-pinara/tour-832825/?id=60272020&airport%5B0%5D=1
+Link (page:10 hotel:6): http://hotel.invia.cz/turecko/alanya/sunshine/tour-903858/?id=59662717&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/sunshine/tour-903858/?id=59662717&airport%5B0%5D=1
+Link (page:10 hotel:7): http://hotel.invia.cz/turecko/alanya/aska-bayview-resort-ex-aska-buse/tour-900381/?id=59063551&airport%5B0%5D=1
+OUTPUT: | 62 556 Kč | 1. dítě 2-12 let A1A-Dvouluzkovy pokoj pro jednotlivce, A1D-Dvouluzkovy pokoj pro jednotlivce,... více | 2. dítě 2-12 let A1A-Dvouluzkovy pokoj pro jednotlivce | Dospělá osoba
+A2B- | Turecko, Alanya, Incekum  | Smartline Aska Bayview | http://hotel.invia.cz/turecko/alanya/aska-bayview-resort-ex-aska-buse/tour-900381/?id=59063551&airport%5B0%5D=1
+Link (page:11 hotel:0): http://hotel.invia.cz/turecko/alanya/konaktepe/tour-801542/?id=65748011&airport%5B0%5D=1
+WARNING | 52 382 Kč | 1. dítě 2-12 let E2A-Dvouluzkovy pokoj, E2B-Familienzimmer / 2 Räume | 1. dítě 2-12 let E2A-Dvouluzkovy pokoj, E2B-Familienzimmer / 2 Räume | Dospělá osoba
+E1A-Dvouluzkovy pokoj | Turecko, Alanya, Konakli  | Smartline Konaktepe | http://hotel.invia.cz/turecko/alanya/konaktepe/tour-801542/?id=65748011&airport%5B0%5D=1
+Link (page:11 hotel:1): http://hotel.invia.cz/turecko/alanya/happy-elegant/tour-925549/?id=63669521&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/happy-elegant/tour-925549/?id=63669521&airport%5B0%5D=1
+Link (page:11 hotel:2): http://hotel.invia.cz/recko/rhodos/medblue-fanes-ex-nautica-blue/tour-731788/?id=64821911&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/medblue-fanes-ex-nautica-blue/tour-731788/?id=64821911&airport%5B0%5D=1
+Link (page:11 hotel:3): http://hotel.invia.cz/turecko/bodrum/camelot-boutique-beach/tour-918961/?id=62794418&airport%5B0%5D=1
+OUTPUT: | 54 060 Kč | 1. dítě do 13 let za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Akyarlar | Camelot Boutique | http://hotel.invia.cz/turecko/bodrum/camelot-boutique-beach/tour-918961/?id=62794418&airport%5B0%5D=1
+Link (page:11 hotel:4): http://hotel.invia.cz/turecko/side/side-ally/tour-890290/?id=65148884&airport%5B0%5D=1
+OUTPUT: | 55 934 Kč | 1. dítě do 9 let A2A-Dvouluzkovy pokoj | 2. dítě 2-12 let A2A-Dvouluzkovy pokoj | Dospělá osoba
+A2A-Dvouluzkovy pokoj | Turecko, Side, Manavgat | Smartline Side Ally | http://hotel.invia.cz/turecko/side/side-ally/tour-890290/?id=65148884&airport%5B0%5D=1
+Link (page:11 hotel:5): http://hotel.invia.cz/turecko/side/side-serenis/tour-894511/?id=57784301&airport%5B0%5D=1
+OUTPUT: | 55 870 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 0 dětí) | Turecko, Side, Side | Side Serenis | http://hotel.invia.cz/turecko/side/side-serenis/tour-894511/?id=57784301&airport%5B0%5D=1
+Link (page:11 hotel:6): http://hotel.invia.cz/turecko/side/side-alegria-hotel-spa-ex-holiday-point-resort/tour-899850/?id=58961845&airport%5B0%5D=1
+OUTPUT: | 57 470 Kč | 1. dítě 7-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Seaside... více | 2. dítě do 4 let Dvoulůžkový pokoj Seaside (2 dospělých + 2 dětí), Dvoulůžkový pokoj (2... více | Dospělá osoba
+Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Seaside... více | Turecko, Side, Çolakli | Side Alegria Hotel & Spa | http://hotel.invia.cz/turecko/side/side-alegria-hotel-spa-ex-holiday-point-resort/tour-899850/?id=58961845&airport%5B0%5D=1
+
+
+Link (page:11 hotel:6): http://hotel.invia.cz/turecko/alanya/-hotel-alanya-5/tour-921627/?id=62963060&airport%5B0%5D=1
+WARNING | 39 670 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Alanya | Hotel Alanya 5 | http://hotel.invia.cz/turecko/alanya/-hotel-alanya-5/tour-921627/?id=62963060&airport%5B0%5D=1
+Link (page:11 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/didim-beach-resort-elegance/tour-893386/?id=57500484&airport%5B0%5D=1
+OUTPUT: | 57 460 Kč | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/2 výhled na moře | 2. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/2 výhled na moře | Dospělá osoba ve 2lůžkovém pokoji
+pokoj - 2/2 výhled na moře | Turecko, Bodrum, Didim  | Didim Beach Resort & Elegance | http://hotel.invia.cz/turecko/egejska-riviera/didim-beach-resort-elegance/tour-893386/?id=57500484&airport%5B0%5D=1
+Link (page:12 hotel:0): http://hotel.invia.cz/turecko/alanya/remi/tour-839266/?id=67503863&airport%5B0%5D=1
+WARNING | 46 080 Kč | 1. dítě 7-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 7-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Alanya, Alanya  | Remi | http://hotel.invia.cz/turecko/alanya/remi/tour-839266/?id=67503863&airport%5B0%5D=1
+Link (page:12 hotel:1): http://hotel.invia.cz/turecko/alanya/doganay-beach-club/tour-944781/?id=65984647&airport%5B0%5D=1
+OUTPUT: | 55 400 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (3 dospělých... více | 2. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Alanya, Konakli  | Doganay Beach Club_7 | http://hotel.invia.cz/turecko/alanya/doganay-beach-club/tour-944781/?id=65984647&airport%5B0%5D=1
+Retry
+Link (page:12 hotel:2): http://hotel.invia.cz/turecko/bodrum/golden-beach/tour-832843/?id=60269523&airport%5B0%5D=1
+OUTPUT: | 46 960 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Turgutreis  | Golden Beach | http://hotel.invia.cz/turecko/bodrum/golden-beach/tour-832843/?id=60269523&airport%5B0%5D=1
+Link (page:12 hotel:3): http://hotel.invia.cz/turecko/alanya/ideal-beach/tour-953452/?id=67978878&airport%5B0%5D=1
+OUTPUT: | 53 160 Kč | 1. dítě 2-12 let na přistýlce | 2. dítě 2-12 let na přistýlce | Dospělá osoba - pevné lůžko | Turecko, Turecká Riviéra, Kargıcak  | Ideal Beach | http://hotel.invia.cz/turecko/alanya/ideal-beach/tour-953452/?id=67978878&airport%5B0%5D=1
+Link (page:12 hotel:4): http://hotel.invia.cz/turecko/alanya/blue-sky/tour-845037/?id=62146280&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/blue-sky/tour-845037/?id=62146280&airport%5B0%5D=1
+Link (page:12 hotel:5): http://hotel.invia.cz/recko/rhodos/belmare/tour-887436/?id=59245233&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/belmare/tour-887436/?id=59245233&airport%5B0%5D=1
+Link (page:12 hotel:6): http://hotel.invia.cz/turecko/bodrum/parkim-ayaz/tour-878679/?id=62795738&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/bodrum/parkim-ayaz/tour-878679/?id=62795738&airport%5B0%5D=1
+Link (page:12 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/euphoria-aegean-resort-spa/tour-906817/?id=60453425&airport%5B0%5D=1
+WARNING | 40 370 Kč | 1. dítě do 14 let na přistýlce mladší | 1. dítě do 14 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Egejská Riviéra, Kusadasi | Euphoria Aegean Resort | http://hotel.invia.cz/turecko/egejska-riviera/euphoria-aegean-resort-spa/tour-906817/?id=60453425&airport%5B0%5D=1
+Link (page:13 hotel:0): http://hotel.invia.cz/turecko/side/orfeus-park/tour-957896/?id=68345494&airport%5B0%5D=1
+WARNING | 40 490 Kč | 1. dítě 2-12 let DBL + EB | 1. dítě 2-12 let DBL + EB | Dospělá osoba
+1. a 2. os. v pokoji | Turecko, Alanya, Çolakli  | Hotel Orfeus Park | http://hotel.invia.cz/turecko/side/orfeus-park/tour-957896/?id=68345494&airport%5B0%5D=1
+
+Link (page:13 hotel:0): http://hotel.invia.cz/turecko/side/orfeus-park/tour-957896/?id=68345494&airport%5B0%5D=1
+WARNING | 40 490 Kč | 1. dítě 2-12 let DBL + EB | 1. dítě 2-12 let DBL + EB | Dospělá osoba
+1. a 2. os. v pokoji | Turecko, Alanya, Çolakli  | Hotel Orfeus Park | http://hotel.invia.cz/turecko/side/orfeus-park/tour-957896/?id=68345494&airport%5B0%5D=1
+Link (page:13 hotel:1): http://hotel.invia.cz/turecko/bodrum/bodrum-bay-resort/tour-832820/?id=62794849&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/bodrum/bodrum-bay-resort/tour-832820/?id=62794849&airport%5B0%5D=1
+Link (page:13 hotel:2): http://hotel.invia.cz/turecko/side/sun-beach-park/tour-912776/?id=61489777&airport%5B0%5D=1
+WARNING | 40 176 Kč | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Turecko, Side, Side  | Sun Beach Park | http://hotel.invia.cz/turecko/side/sun-beach-park/tour-912776/?id=61489777&airport%5B0%5D=1
+
+Link (page:13 hotel:2): http://hotel.invia.cz/turecko/side/sun-beach-park/tour-912776/?id=61489777&airport%5B0%5D=1
+WARNING | 40 176 Kč | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Turecko, Side, Side  | Sun Beach Park | http://hotel.invia.cz/turecko/side/sun-beach-park/tour-912776/?id=61489777&airport%5B0%5D=1
+Link (page:13 hotel:3): http://hotel.invia.cz/turecko/alanya/my-home-resort/tour-900334/?id=59059150&airport%5B0%5D=1
+OUTPUT: | 54 969 Kč | 1. dítě 2-12 let A2A-Dvouluzkovy pokoj | 2. dítě 2-12 let A2A-Dvouluzkovy pokoj | Dospělá osoba
+A2A-Dvouluzkovy pokoj | Turecko, Alanya, Avsallar  | My Home Resort | http://hotel.invia.cz/turecko/alanya/my-home-resort/tour-900334/?id=59059150&airport%5B0%5D=1
+
+Link (page:13 hotel:3): http://hotel.invia.cz/turecko/alanya/my-home-resort/tour-900334/?id=59059150&airport%5B0%5D=1
+OUTPUT: | 54 969 Kč | 1. dítě 2-12 let A2A-Dvouluzkovy pokoj | 2. dítě 2-12 let A2A-Dvouluzkovy pokoj | Dospělá osoba
+A2A-Dvouluzkovy pokoj | Turecko, Alanya, Avsallar  | My Home Resort | http://hotel.invia.cz/turecko/alanya/my-home-resort/tour-900334/?id=59059150&airport%5B0%5D=1
+
+Link (page:13 hotel:4): http://hotel.invia.cz/recko/korfu/blue-princess-beach/tour-903699/?id=59648916&airport%5B0%5D=1
+OUTPUT: | 53 060 Kč | 1. dítě do 13 let za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Korfu, Liapades | Miro Blue Princess Beach | http://hotel.invia.cz/recko/korfu/blue-princess-beach/tour-903699/?id=59648916&airport%5B0%5D=1
+Link (page:13 hotel:5): http://hotel.invia.cz/turecko/side/laphetos-beach/tour-956933/?id=68198142&airport%5B0%5D=1
+WARNING | 40 890 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj s přistýlkou | 1. dítě 2-12 let Dvoulůžkový pokoj s přistýlkou | Dospělá osoba
+1. a 2. os. v pokoji | Turecko, Antalya, Side  | Laphetos Beach | http://hotel.invia.cz/turecko/side/laphetos-beach/tour-956933/?id=68198142&airport%5B0%5D=1
+Link (page:13 hotel:6): http://hotel.invia.cz/turecko/fethiye/oludeniz-resort/tour-492586/?id=62968660&airport%5B0%5D=1
+WARNING | 41 970 Kč | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/1 | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/1 | Dospělá osoba ve 2lůžkovém pokoji
+pokoj - 2/1 | Turecko, Egejská Riviéra, Ölüdeniz  | Ölüdeniz Resort | http://hotel.invia.cz/turecko/fethiye/oludeniz-resort/tour-492586/?id=62968660&airport%5B0%5D=1
+Link (page:13 hotel:7): http://hotel.invia.cz/recko/rhodos/memphis-beach/tour-896695/?id=58382760&airport%5B0%5D=1
+WARNING | 41 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 0 dětí), Dvoulůžkový pokoj (3 dospělých... více | Řecko, Rhodos, Kolymbia  | Memphis Beach | http://hotel.invia.cz/recko/rhodos/memphis-beach/tour-896695/?id=58382760&airport%5B0%5D=1
+Link (page:14 hotel:0): http://hotel.invia.cz/turecko/turecka-riviera/arabella-world/tour-839153/?id=67503290&airport%5B0%5D=1
+OUTPUT: | 55 210 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (3 dospělých... více | 2. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Turecká Riviéra, Avsallar  | Arabella World | http://hotel.invia.cz/turecko/turecka-riviera/arabella-world/tour-839153/?id=67503290&airport%5B0%5D=1
+Link (page:14 hotel:1): http://hotel.invia.cz/turecko/side/sun-club-side/tour-180432/?id=57503903&airport%5B0%5D=1
+OUTPUT: | 58 460 Kč | 1. dítě 2-13 let na přistýlce | 2. dítě 7-13 let na přistýlce | Dospělá osoba - pevné lůžko | Turecko, Side, Side  | Side Sun Club | http://hotel.invia.cz/turecko/side/sun-club-side/tour-180432/?id=57503903&airport%5B0%5D=1
+Link (page:14 hotel:2): http://hotel.invia.cz/recko/limnos/diamantidis/tour-952796/?id=67519228&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/limnos/diamantidis/tour-952796/?id=67519228&airport%5B0%5D=1
+
+Link (page:14 hotel:3): http://hotel.invia.cz/turecko/bodrum/risa-bitez/tour-896850/?id=58403957&airport%5B0%5D=1
+OUTPUT: | 58 960 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 1... více | 2. dítě 2-12 let Rodinný pokoj (2 dospělých + 2 dětí), Rodinný pokoj (3 dospělých + 2... více | Dospělá osoba
+Rodinný pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 2... více | Turecko, Egejská Riviéra | Risa Hotel | http://hotel.invia.cz/turecko/bodrum/risa-bitez/tour-896850/?id=58403957&airport%5B0%5D=1
+Link (page:14 hotel:4): http://hotel.invia.cz/turecko/bodrum/yelken-mandalinci-spa-wellness/tour-877465/?id=58351013&airport%5B0%5D=1
+OUTPUT: | 58 960 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 1... více | 2. dítě 2-12 let Rodinný pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj (3 dospělých + 0 dětí), Rodinný pokoj (2 dospělých + 1... více | Turecko, Bodrum, Turgutreis  | Yelken Mandalinci Spa & Wellness | http://hotel.invia.cz/turecko/bodrum/yelken-mandalinci-spa-wellness/tour-877465/?id=58351013&airport%5B0%5D=1
+
+Link (page:14 hotel:5): http://hotel.invia.cz/turecko/kemer/greenwood-resort/tour-326817/?id=57455555&airport%5B0%5D=1
+OUTPUT: | 56 460 Kč | 1. dítě 2-12 let na přistýlce 2lůžkový pokoj - 2/2 | 2. dítě 2-12 let na přistýlce 2lůžkový pokoj - 2/2 | Dospělá osoba ve 2lůžkovém pokoji
+pokoj - 2/2 | Turecko, Kemer, Göynük  | Sherwood Greenwood Resort | http://hotel.invia.cz/turecko/kemer/greenwood-resort/tour-326817/?id=57455555&airport%5B0%5D=1
+
+Link (page:14 hotel:6): http://hotel.invia.cz/turecko/side/club-sidelya/tour-727435/?id=57366234&airport%5B0%5D=1
+WARNING | 41 970 Kč | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/1 | 1. dítě 2-13 let na přistýlce 2lůžkový pokoj - 2/1 | Dospělá osoba ve 2lůžkovém pokoji
+pokoj - 2/1 | Turecko, Side, Çolakli  | Club Sidelya | http://hotel.invia.cz/turecko/side/club-sidelya/tour-727435/?id=57366234&airport%5B0%5D=1
+Retry
+Problem - going unusual way:class org.openqa.selenium.StaleElementReferenceException stale element reference: element is not attached to the page document
+  (Session info: chrome=44.0.2403.125)
+  (Driver info: chromedriver=2.16.333243 (0bfa1d3575fc1044244f21ddb82bf870944ef961),platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: '115n', ip: '192.168.1.101', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\mirek\AppData\Local\Temp\scoped_dir26484_4941}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=44.0.2403.125, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8d83038430f18acd951be437b490a436
+Link (page:14 hotel:7): http://hotel.invia.cz/turecko/side/hane-sun/tour-896654/?id=58378560&airport%5B0%5D=1
+OUTPUT: | 55 960 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 2. dítě 2-12 let Rodinný pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj (2 dospělých + 2 dětí) | Turecko, Side | Hane Sun | http://hotel.invia.cz/turecko/side/hane-sun/tour-896654/?id=58378560&airport%5B0%5D=1
+Link (page:15 hotel:0): http://hotel.invia.cz/turecko/alanya/nergis-boutiqoe/tour-957143/?id=68219598&airport%5B0%5D=1
+WARNING | 40 970 Kč | 1. dítě do 13 let za letenku na pristýlce mladší | 1. dítě do 13 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Alanya | Nergis Boutique | http://hotel.invia.cz/turecko/alanya/nergis-boutiqoe/tour-957143/?id=68219598&airport%5B0%5D=1
+Link (page:15 hotel:1): http://hotel.invia.cz/turecko/turecka-riviera/pegasos-club/tour-903632/?id=59642048&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/turecka-riviera/pegasos-club/tour-903632/?id=59642048&airport%5B0%5D=1
+Retry
+Link (page:15 hotel:2): http://hotel.invia.cz/turecko/turecka-riviera/sailors-beach-club/tour-837896/?id=60286670&airport%5B0%5D=1
+OUTPUT: | 41 970 Kč | 2. dítě 2-7 let na přistýlce | 2. dítě 2-7 let na přistýlce | Dospělá osoba | Turecko, Kemer, Kiriş  | Sailor´s Beach Club | http://hotel.invia.cz/turecko/turecka-riviera/sailors-beach-club/tour-837896/?id=60286670&airport%5B0%5D=1
+Retry
+Retry
+Link (page:15 hotel:3): http://hotel.invia.cz/turecko/egejska-riviera/blue-sky/tour-832819/?id=60267982&airport%5B0%5D=1
+OUTPUT: | 47 960 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Egejská Riviéra, Kusadasi  | Blue Sky | http://hotel.invia.cz/turecko/egejska-riviera/blue-sky/tour-832819/?id=60267982&airport%5B0%5D=1
+Link (page:15 hotel:4): http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+Link (page:15 hotel:5): http://hotel.invia.cz/recko/kos/akti-kalimera-kos/tour-839541/?id=58338690&airport%5B0%5D=1
+OUTPUT: | 73 960 Kč | 1. dítě 2-14 let Dvoulůžkový pokoj Promo (2 dospělých + 1 dětí), Dvoulůžkový pokoj (2... více | 2. dítě 2-14 let Rodinný pokoj 1 ložnice (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj 1 ložnice (2 dospělých + 1 dětí), Rodinný pokoj 1 ložnice (2... více | Řecko, Kos, Kardamena | Funtazie Klub Akti Kalimera Kos | http://hotel.invia.cz/recko/kos/akti-kalimera-kos/tour-839541/?id=58338690&airport%5B0%5D=1
+Link (page:15 hotel:6): http://hotel.invia.cz/turecko/alanya/white-city-beach/tour-903774/?id=59655772&airport%5B0%5D=1
+OUTPUT: | 62 118 Kč | 1. dítě 2-12 let A1A-Dvouluzkovy pokoj pro jednotlivce, A2A-Dvouluzkovy pokoj, A3A-Obsazenost... více | 2. dítě 2-12 let A1A-Dvouluzkovy pokoj pro jednotlivce | Dospělá osoba
+A1A-Dvouluzkovy pokoj pro jednotlivce | Turecko, Alanya, Konakli  | Smartline White City Beach | http://hotel.invia.cz/turecko/alanya/white-city-beach/tour-903774/?id=59655772&airport%5B0%5D=1
+Link (page:15 hotel:7): http://hotel.invia.cz/turecko/alanya/club-dizalya/tour-732836/?id=67149130&airport%5B0%5D=1
+OUTPUT: | 61 060 Kč | 1. dítě do 13 let Vila pro 3-5 osoby, Rodinný pokoj pro 3-5 osob, Standardní pokoj pro 2-4... více | 2. dítě do 13 let Promo pokoj pro 2-4 osoby | Dospělá osoba
+Rodinný pokoj pro 3-5 osob | Turecko, Alanya, Konakli  | Hotel Club Dizalya | http://hotel.invia.cz/turecko/alanya/club-dizalya/tour-732836/?id=67149130&airport%5B0%5D=1
+Link (page:16 hotel:0): http://hotel.invia.cz/turecko/kemer/viking-star/tour-732612/?id=67147581&airport%5B0%5D=1
+WARNING | 47 070 Kč | 1. dítě 7-13 let Promo pokoj pro 2-3 osoby, Standardní pokoj pro 2-3 osoby | 1. dítě 7-13 let Promo pokoj pro 2-3 osoby, Standardní pokoj pro 2-3 osoby | Dospělá osoba
+Promo pokoj pro 2-3 osoby | Turecko, Kemer, Kemer  | Hotel Viking Star | http://hotel.invia.cz/turecko/kemer/viking-star/tour-732612/?id=67147581&airport%5B0%5D=1
+Retry
+Retry
+Link (page:16 hotel:1): http://hotel.invia.cz/spanelsko/mallorca/pollensa-park-spa/tour-732525/?id=68290568&airport%5B0%5D=1
+WARNING | 48 270 Kč | 1. dítě 7-12 let Pokoj pro 2-3 osoby Sea Front | 1. dítě 7-12 let Pokoj pro 2-3 osoby Sea Front | Dospělá osoba
+Pokoj pro 2-3 osoby Sea Front | Španělsko, Mallorca, Puerto de Pollensa  | Fergus Style Pollensa Park & Spa | http://hotel.invia.cz/spanelsko/mallorca/pollensa-park-spa/tour-732525/?id=68290568&airport%5B0%5D=1
+Link (page:16 hotel:2): http://hotel.invia.cz/turecko/alanya/galaxy-beach/tour-848817/?id=63665819&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/galaxy-beach/tour-848817/?id=63665819&airport%5B0%5D=1
+Retry
+Link (page:16 hotel:3): http://hotel.invia.cz/recko/kreta/semiramis/tour-787612/?id=59075577&airport%5B0%5D=1
+WARNING | 50 448 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko
+1. osoba | Řecko, Kréta, Chersonissos  | Semiramis Village | http://hotel.invia.cz/recko/kreta/semiramis/tour-787612/?id=59075577&airport%5B0%5D=1
+Link (page:16 hotel:4): http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-732790/?id=67079235&airport%5B0%5D=1
+WARNING | 41 970 Kč | 1. dítě do 12 let Jednolůž. pokoj s možn. 1 dítě, Pokoj Large pro 3-4 osoby, Standardní pokoj... více | 1. dítě do 12 let Jednolůž. pokoj s možn. 1 dítě, Pokoj Large pro 3-4 osoby, Standardní pokoj... více | Dospělá osoba
+PROMO pokoj pro 2-3 osoby | Turecko, Bodrum, Turgutreis  | Hotel Bendis Beach | http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-732790/?id=67079235&airport%5B0%5D=1
+
+Link (page:16 hotel:5): http://hotel.invia.cz/turecko/kemer/marti-myra/tour-924184/?id=68296601&airport%5B0%5D=1
+OUTPUT: | 48 360 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Kemer, Tekirova  | Marti Myra | http://hotel.invia.cz/turecko/kemer/marti-myra/tour-924184/?id=68296601&airport%5B0%5D=1
+Link (page:16 hotel:6): http://hotel.invia.cz/recko/rhodos/golden-odyssey/tour-830777/?id=59834064&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/golden-odyssey/tour-830777/?id=59834064&airport%5B0%5D=1
+Retry
+Retry
+Retry
+Link (page:16 hotel:7): http://hotel.invia.cz/recko/zakynthos/palazzo-di-zante/tour-903661/?id=59646104&airport%5B0%5D=1
+WARNING | 41 570 Kč | 1. dítě do 15 let na přistýlce za letenku na pristýlce mladší | 1. dítě do 15 let na přistýlce za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Zakynthos, Vassilikos  | Palazzo Di Zante - Economy | http://hotel.invia.cz/recko/zakynthos/palazzo-di-zante/tour-903661/?id=59646104&airport%5B0%5D=1
+Retry
+Link (page:17 hotel:0): http://hotel.invia.cz/recko/rhodos/eagles-nest/tour-952087/?id=67419597&airport%5B0%5D=1
+WARNING | 42 890 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko
+1. osoba | Řecko, Rhodos, Pefkos | Eagles Nest | http://hotel.invia.cz/recko/rhodos/eagles-nest/tour-952087/?id=67419597&airport%5B0%5D=1
+Retry
+Link (page:17 hotel:1): http://hotel.invia.cz/recko/zakynthos/zante-plaza/tour-784246/?id=66981414&airport%5B0%5D=1
+OUTPUT: | 63 760 Kč | 1. dítě do 7 let dvoulůžkový pokoj/pokoj s oddělenými lůžky, apartmán s jednou ložnicí | 2. dítě do 5 let apartmán s jednou ložnicí | Dospělá osoba
+Studio až pro 3 osoby | Řecko, Zakynthos, Laganas  | Zante Plaza | http://hotel.invia.cz/recko/zakynthos/zante-plaza/tour-784246/?id=66981414&airport%5B0%5D=1
+Retry
+Link (page:17 hotel:2): http://hotel.invia.cz/turecko/egejska-riviera/gumuldur-resort/tour-834099/?id=58361522&airport%5B0%5D=1
+OUTPUT: | 55 160 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj Výhled more Superior (2 dospělých + 1 dětí), Dvoulůžkový... více | 2. dítě 2-12 let Dvoulůžkový pokoj Výhled more Superior (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj Výhled more Superior (2 dospělých + 1 dětí), Dvoulůžkový... více | Turecko, Egejská Riviéra, Gümüldür  | Funtazie Klub Gümüldür Resort | http://hotel.invia.cz/turecko/egejska-riviera/gumuldur-resort/tour-834099/?id=58361522&airport%5B0%5D=1
+Retry
+Link (page:17 hotel:3): http://hotel.invia.cz/turecko/egejska-riviera/tusan-beach-resort/tour-942928/?id=65723764&airport%5B0%5D=1
+OUTPUT: | 50 960 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj Výhled more Deluxe (2 dospělých + 1 dětí), Dvoulůžkový... více | 2. dítě 2-6 let Dvoulůžkový pokoj Výhled more Deluxe (2 dospělých + 2 dětí) | Dospělá osoba
+Dvoulůžkový pokoj Výhled more Deluxe (2 dospělých + 0 dětí), Dvoulůžkový... více | Turecko, Egejská Riviéra, Kusadasi  | Tusan Beach Resort | http://hotel.invia.cz/turecko/egejska-riviera/tusan-beach-resort/tour-942928/?id=65723764&airport%5B0%5D=1
+Retry
+Retry
+Retry
+Link (page:17 hotel:4): http://hotel.invia.cz/turecko/egejska-riviera/atlantique-holiday-club/tour-929023/?id=63945575&airport%5B0%5D=1
+WARNING | 44 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Egejská Riviéra, Kusadasi  | Sunconnect Atlantique Holiday Club | http://hotel.invia.cz/turecko/egejska-riviera/atlantique-holiday-club/tour-929023/?id=63945575&airport%5B0%5D=1
+Retry
+Link (page:17 hotel:5): http://hotel.invia.cz/turecko/egejska-riviera/alkoclar-adakule/tour-929517/?id=64001726&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/egejska-riviera/alkoclar-adakule/tour-929517/?id=64001726&airport%5B0%5D=1
+Retry
+Link (page:17 hotel:6): http://hotel.invia.cz/turecko/bodrum/camelot-boutique-beach/tour-918961/?id=62496339&airport%5B0%5D=1
+OUTPUT: | 56 460 Kč | 1. dítě do 13 let za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Akyarlar | Camelot Boutique | http://hotel.invia.cz/turecko/bodrum/camelot-boutique-beach/tour-918961/?id=62496339&airport%5B0%5D=1
+Retry
+Link (page:17 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/lebedos-princess/tour-917454/?id=62039371&airport%5B0%5D=1
+OUTPUT: | 82 960 Kč | 1. dítě do 12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 2. dítě do 12 let Rodinný pokoj (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 2... více | Turecko, Egejská Riviéra, Kusadasi | Lebedos Princess | http://hotel.invia.cz/turecko/egejska-riviera/lebedos-princess/tour-917454/?id=62039371&airport%5B0%5D=1
+Link (page:18 hotel:0): http://hotel.invia.cz/recko/leros/crithonis-paradise/tour-946123/?id=66128713&airport%5B0%5D=1
+OUTPUT: | 54 160 Kč | 1. dítě do 14 let za letenku na pristýlce mladší | 2. dítě do 14 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Leros, Agia Marina | Crithonis Paradise Ai | http://hotel.invia.cz/recko/leros/crithonis-paradise/tour-946123/?id=66128713&airport%5B0%5D=1
+Retry
+Link (page:18 hotel:1): http://hotel.invia.cz/turecko/marmaris/turunc/tour-933298/?id=64320805&airport%5B0%5D=1
+OUTPUT: | 55 460 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Marmaris, Turunç  | Turunc | http://hotel.invia.cz/turecko/marmaris/turunc/tour-933298/?id=64320805&airport%5B0%5D=1
+Link (page:18 hotel:2): http://hotel.invia.cz/turecko/alanya/eftalia-resort/tour-831605/?id=60241316&airport%5B0%5D=1
+OUTPUT: | 43 000 Kč | 2. dítě 2-14 let na přistýlce BRQ | 2. dítě 2-14 let na přistýlce BRQ | Dospělá osoba - pevné lůžko
+BRQ | Turecko, Alanya, Payallar  | Eftalia Resort | http://hotel.invia.cz/turecko/alanya/eftalia-resort/tour-831605/?id=60241316&airport%5B0%5D=1
+Retry
+Link (page:18 hotel:3): http://hotel.invia.cz/turecko/alanya/monart-city/tour-732837/?id=67134399&airport%5B0%5D=1
+OUTPUT: | 64 460 Kč | 1. dítě do 12 let Jednolůžkový pokoj s možností 1 dítěte, Standardní pokoj pro 2-4 osoby | 2. dítě do 12 let Standardní pokoj pro 2-4 osoby | Dospělá osoba
+Jednolůžkový pokoj s možností 1 dítěte | Turecko, Alanya, Alanya  | Hotel Monart City | http://hotel.invia.cz/turecko/alanya/monart-city/tour-732837/?id=67134399&airport%5B0%5D=1
+Retry
+Retry
+Link (page:18 hotel:4): http://hotel.invia.cz/recko/kos/euro-village-achilleas/tour-903653/?id=61226331&airport%5B0%5D=1
+OUTPUT: | 51 160 Kč | 1. dítě do 14 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 7 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Kos, Mastichari  | Eurovillage Achilleas New | http://hotel.invia.cz/recko/kos/euro-village-achilleas/tour-903653/?id=61226331&airport%5B0%5D=1
+Retry
+Retry
+Retry
+Link (page:18 hotel:5): http://hotel.invia.cz/recko/zakynthos/zante-royal-resort-waterpark/tour-912775/?id=61489593&airport%5B0%5D=1
+OUTPUT: | 48 768 Kč | 1. dítě 2-13 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-13 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Řecko, Zakynthos, Vassilikos | Zante Royal Resort | http://hotel.invia.cz/recko/zakynthos/zante-royal-resort-waterpark/tour-912775/?id=61489593&airport%5B0%5D=1
+Retry
+Retry
+Retry
+Link (page:18 hotel:6): http://hotel.invia.cz/recko/kreta/gouves-sea-mare/tour-875754/?id=67745418&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kreta/gouves-sea-mare/tour-875754/?id=67745418&airport%5B0%5D=1
+Link (page:18 hotel:7): http://hotel.invia.cz/turecko/alanya/titan-garden/tour-732833/?id=67081484&airport%5B0%5D=1
+OUTPUT: | 60 260 Kč | 1. dítě do 13 let Jednolůžkový pokoj s možností 1 dítěte, Standardní pokoj pro 2-4 osoby,... více | 2. dítě do 13 let Standardní pokoj pro 2-4 osoby | Dospělá osoba
+Standardní pokoj pro 2-4 osoby | Turecko, Alanya, Konakli  | Hotel Titan Garden | http://hotel.invia.cz/turecko/alanya/titan-garden/tour-732833/?id=67081484&airport%5B0%5D=1
+Retry
+Link (page:19 hotel:0): http://hotel.invia.cz/turecko/alanya/lycus-beach/tour-831864/?id=59599156&airport%5B0%5D=1
+OUTPUT: | 55 460 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Alanya, Okurcalar  | Lti Lycus Beach | http://hotel.invia.cz/turecko/alanya/lycus-beach/tour-831864/?id=59599156&airport%5B0%5D=1
+Link (page:19 hotel:1): http://hotel.invia.cz/turecko/side/saray-regency/tour-931441/?id=64137029&airport%5B0%5D=1
+OUTPUT: | 49 360 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Side, Manavgat  | Saray Regency Garden | http://hotel.invia.cz/turecko/side/saray-regency/tour-931441/?id=64137029&airport%5B0%5D=1
+Retry
+Link (page:19 hotel:2): http://hotel.invia.cz/recko/kos/princess-of-kos/tour-833670/?id=61227531&airport%5B0%5D=1
+OUTPUT: | 56 760 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Kos, Mastichari  | Princess Of Kos | http://hotel.invia.cz/recko/kos/princess-of-kos/tour-833670/?id=61227531&airport%5B0%5D=1
+Retry
+Link (page:19 hotel:3): http://hotel.invia.cz/recko/kreta/hersonissos-palace/tour-712431/?id=59075446&airport%5B0%5D=1
+WARNING | 50 368 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko
+1. dospělá osoba | Řecko, Kréta, Chersonissos  | Hersonissos Palace | http://hotel.invia.cz/recko/kreta/hersonissos-palace/tour-712431/?id=59075446&airport%5B0%5D=1
+Retry
+Link (page:19 hotel:4): http://hotel.invia.cz/turecko/alanya/club-mermaid/tour-796059/?id=67519110&airport%5B0%5D=1
+OUTPUT: | 59 778 Kč | 1. dítě 2-12 let A2C-Rodinný pokoj, A3C-Rodinný pokoj | 2. dítě do 15 let A2C-Rodinný pokoj, A3C-Rodinný pokoj | Dospělá osoba
+A2C-Rodinný pokoj | Turecko, Alanya, Payallar | Club Mermaid Village | http://hotel.invia.cz/turecko/alanya/club-mermaid/tour-796059/?id=67519110&airport%5B0%5D=1
+Retry
+Link (page:19 hotel:5): http://hotel.invia.cz/turecko/alanya/antique-roman-palace/tour-918920/?id=62429083&airport%5B0%5D=1
+OUTPUT: | 61 160 Kč | 1. dítě 2-13 let na přistýlce | 2. dítě 2-13 let na přistýlce | Dospělá osoba - pevné lůžko | Turecko, Turecká Riviéra, Alanya  | Antique Roman Palace | http://hotel.invia.cz/turecko/alanya/antique-roman-palace/tour-918920/?id=62429083&airport%5B0%5D=1
+Link (page:19 hotel:6): http://hotel.invia.cz/recko/kreta/heronissos/tour-346179/?id=61526672&airport%5B0%5D=1
+WARNING | 49 570 Kč | 1. dítě do 7 let dvoulůžkový pokoj/pokoj s oddělenými lůžky s výhledem do krajiny, Dvoulůžkový... více | 1. dítě do 7 let dvoulůžkový pokoj/pokoj s oddělenými lůžky s výhledem do krajiny, Dvoulůžkový... více | Dospělá osoba
+dvoulůžkový pokoj/pokoj s oddělenými lůžky s výhledem do krajiny | Řecko, Kréta, Chersonissos | Heronissos | http://hotel.invia.cz/recko/kreta/heronissos/tour-346179/?id=61526672&airport%5B0%5D=1
+Link (page:19 hotel:7): http://hotel.invia.cz/recko/zakynthos/zante-imperial/tour-912773/?id=61489487&airport%5B0%5D=1
+OUTPUT: | 49 088 Kč | 1. dítě 2-13 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-13 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Řecko, Zakynthos, Vassilikos | Zante Imperial Beach | http://hotel.invia.cz/recko/zakynthos/zante-imperial/tour-912773/?id=61489487&airport%5B0%5D=1
+Retry
+
+Link (page:20 hotel:0): http://hotel.invia.cz/turecko/side/sural-hotel/tour-949064/?id=67971886&airport%5B0%5D=1
+OUTPUT: | 62 560 Kč | 1. dítě 2-13 let na přistýlce | 2. dítě 2-13 let na přistýlce | Dospělá osoba - pevné lůžko | Turecko, Side, Çolakli  | Süral Hotel | http://hotel.invia.cz/turecko/side/sural-hotel/tour-949064/?id=67971886&airport%5B0%5D=1
+Retry
+Link (page:20 hotel:1): http://hotel.invia.cz/turecko/side/aska-costa-holiday-club/tour-919975/?id=62740347&airport%5B0%5D=1
+WARNING | 49 770 Kč | 1. dítě 2-13 let na přistýlce | 1. dítě 2-13 let na přistýlce | Dospělá osoba - pevné lůžko | Turecko, Side, Çenger  | Aska Costa Holiday Club | http://hotel.invia.cz/turecko/side/aska-costa-holiday-club/tour-919975/?id=62740347&airport%5B0%5D=1
+Link (page:20 hotel:2): http://hotel.invia.cz/recko/kreta/sunshine-crete-village/tour-833389/?id=60101526&airport%5B0%5D=1
+OUTPUT: | 51 760 Kč | 1. dítě do 14 let za letenku na pristýlce mladší | 2. dítě do 14 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Kréta, Ierapetra  | Sunshine Crete Village | http://hotel.invia.cz/recko/kreta/sunshine-crete-village/tour-833389/?id=60101526&airport%5B0%5D=1
+Retry
+Link (page:20 hotel:3): http://hotel.invia.cz/turecko/alanya/aventura-park/tour-904745/?id=60005366&airport%5B0%5D=1
+WARNING | 42 890 Kč | 1. dítě 2-13 let Dvoulůžkový pokoj s přistýlkou | 1. dítě 2-13 let Dvoulůžkový pokoj s přistýlkou | Dospělá osoba
+1. a 2. os. v pokoji | Turecko, Alanya, Okurcalar  | Hotel Aventura Park | http://hotel.invia.cz/turecko/alanya/aventura-park/tour-904745/?id=60005366&airport%5B0%5D=1
+Retry
+Link (page:20 hotel:4): http://hotel.invia.cz/turecko/egejska-riviera/omer-holiday-resort/tour-910609/?id=61096219&airport%5B0%5D=1
+OUTPUT: | 70 590 Kč | 1. dítě 2-13 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | 2. dítě 2-13 let Dvoulůžkový pokoj Standard Club (2 dospělých + 2 dětí) | Dospělá osoba
+Rodinný pokoj 2 ložnice (3 dospělých + 0 dětí), Rodinný pokoj 2 ložnice (4... více | Turecko, Egejská Riviéra, Kusadasi  | Omer Holiday Village | http://hotel.invia.cz/turecko/egejska-riviera/omer-holiday-resort/tour-910609/?id=61096219&airport%5B0%5D=1
+Link (page:20 hotel:5): http://hotel.invia.cz/turecko/alanya/incekum-su-ex-aska-baran/tour-897087/?id=58431150&airport%5B0%5D=1
+WARNING | 47 400 Kč | 1. dítě 7-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí) | 1. dítě 7-12 let Dvoulůžkový pokoj Seaside (2 dospělých + 1 dětí) | Dospělá osoba
+Dvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Turecko, Turecká Riviéra, Avsallar  | Incekum Su | http://hotel.invia.cz/turecko/alanya/incekum-su-ex-aska-baran/tour-897087/?id=58431150&airport%5B0%5D=1
+Link (page:20 hotel:6): http://hotel.invia.cz/recko/zakynthos/zante-village/tour-732472/?id=58815171&airport%5B0%5D=1
+WARNING | 45 970 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko
+1. osoba | Řecko, Zakynthos, Alikanas  | Zante Village | http://hotel.invia.cz/recko/zakynthos/zante-village/tour-732472/?id=58815171&airport%5B0%5D=1
+Link (page:20 hotel:7): http://hotel.invia.cz/recko/korfu/paleo-art-nouveau-ex-paleokastritsa/tour-957699/?id=68308607&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/korfu/paleo-art-nouveau-ex-paleokastritsa/tour-957699/?id=68308607&airport%5B0%5D=1
+
+C:\Java8\bin\java -Didea.launcher.port=7536 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA 14.0.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Java8\jre\lib\charsets.jar;C:\Java8\jre\lib\deploy.jar;C:\Java8\jre\lib\javaws.jar;C:\Java8\jre\lib\jce.jar;C:\Java8\jre\lib\jfr.jar;C:\Java8\jre\lib\jfxswt.jar;C:\Java8\jre\lib\jsse.jar;C:\Java8\jre\lib\management-agent.jar;C:\Java8\jre\lib\plugin.jar;C:\Java8\jre\lib\resources.jar;C:\Java8\jre\lib\rt.jar;C:\Java8\jre\lib\ext\access-bridge-64.jar;C:\Java8\jre\lib\ext\cldrdata.jar;C:\Java8\jre\lib\ext\dnsns.jar;C:\Java8\jre\lib\ext\jaccess.jar;C:\Java8\jre\lib\ext\jfxrt.jar;C:\Java8\jre\lib\ext\localedata.jar;C:\Java8\jre\lib\ext\nashorn.jar;C:\Java8\jre\lib\ext\sunec.jar;C:\Java8\jre\lib\ext\sunjce_provider.jar;C:\Java8\jre\lib\ext\sunmscapi.jar;C:\Java8\jre\lib\ext\sunpkcs11.jar;C:\Java8\jre\lib\ext\zipfs.jar;W:\Code\Invia\target\classes;C:\Download\.m2\org\openqa\selenium\client-drivers\selenium-java-client-driver\0.9.2\selenium-java-client-driver-0.9.2.jar;C:\Download\.m2\org\openqa\selenium\server\selenium-server-coreless\0.9.2\selenium-server-coreless-0.9.2.jar;C:\Download\.m2\ant\ant\1.6.5\ant-1.6.5.jar;C:\Download\.m2\jetty\org.mortbay.jetty\5.1.10\org.mortbay.jetty-5.1.10.jar;C:\Download\.m2\commons-logging\commons-logging\1.0.4\commons-logging-1.0.4.jar;C:\Download\.m2\javax\servlet\servlet-api\2.4\servlet-api-2.4.jar;C:\Download\.m2\org\openqa\selenium\core\selenium-core\0.8.3\selenium-core-0.8.3.jar;C:\Download\.m2\junit\junit\3.8.1\junit-3.8.1.jar;C:\Download\.m2\org\openqa\selenium\server\selenium-server\0.9.2\selenium-server-0.9.2-standalone.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-java\2.46.0\selenium-java-2.46.0.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-chrome-driver\2.46.0\selenium-chrome-driver-2.46.0.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-remote-driver\2.46.0\selenium-remote-driver-2.46.0.jar;C:\Download\.m2\cglib\cglib-nodep\2.1_3\cglib-nodep-2.1_3.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-htmlunit-driver\2.46.0\selenium-htmlunit-driver-2.46.0.jar;C:\Download\.m2\net\sourceforge\htmlunit\htmlunit\2.17\htmlunit-2.17.jar;C:\Download\.m2\xalan\xalan\2.7.2\xalan-2.7.2.jar;C:\Download\.m2\xalan\serializer\2.7.2\serializer-2.7.2.jar;C:\Download\.m2\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar;C:\Download\.m2\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Download\.m2\org\apache\httpcomponents\httpmime\4.4.1\httpmime-4.4.1.jar;C:\Download\.m2\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Download\.m2\net\sourceforge\htmlunit\htmlunit-core-js\2.17\htmlunit-core-js-2.17.jar;C:\Download\.m2\xerces\xercesImpl\2.11.0\xercesImpl-2.11.0.jar;C:\Download\.m2\xml-apis\xml-apis\1.4.01\xml-apis-1.4.01.jar;C:\Download\.m2\net\sourceforge\nekohtml\nekohtml\1.9.22\nekohtml-1.9.22.jar;C:\Download\.m2\net\sourceforge\cssparser\cssparser\0.9.16\cssparser-0.9.16.jar;C:\Download\.m2\org\w3c\css\sac\1.3\sac-1.3.jar;C:\Download\.m2\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Download\.m2\org\eclipse\jetty\websocket\websocket-client\9.2.11.v20150529\websocket-client-9.2.11.v20150529.jar;C:\Download\.m2\org\eclipse\jetty\jetty-util\9.2.11.v20150529\jetty-util-9.2.11.v20150529.jar;C:\Download\.m2\org\eclipse\jetty\jetty-io\9.2.11.v20150529\jetty-io-9.2.11.v20150529.jar;C:\Download\.m2\org\eclipse\jetty\websocket\websocket-common\9.2.11.v20150529\websocket-common-9.2.11.v20150529.jar;C:\Download\.m2\org\eclipse\jetty\websocket\websocket-api\9.2.11.v20150529\websocket-api-9.2.11.v20150529.jar;C:\Download\.m2\org\apache\httpcomponents\httpclient\4.4.1\httpclient-4.4.1.jar;C:\Download\.m2\org\apache\httpcomponents\httpcore\4.4.1\httpcore-4.4.1.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-firefox-driver\2.46.0\selenium-firefox-driver-2.46.0.jar;C:\Download\.m2\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Download\.m2\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-ie-driver\2.46.0\selenium-ie-driver-2.46.0.jar;C:\Download\.m2\net\java\dev\jna\jna\4.1.0\jna-4.1.0.jar;C:\Download\.m2\net\java\dev\jna\jna-platform\4.1.0\jna-platform-4.1.0.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-safari-driver\2.46.0\selenium-safari-driver-2.46.0.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-support\2.46.0\selenium-support-2.46.0.jar;C:\Download\.m2\org\webbitserver\webbit\0.4.14\webbit-0.4.14.jar;C:\Download\.m2\io\netty\netty\3.5.2.Final\netty-3.5.2.Final.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-leg-rc\2.46.0\selenium-leg-rc-2.46.0.jar;C:\Download\.m2\org\seleniumhq\selenium\selenium-api\2.46.0\selenium-api-2.46.0.jar;C:\Download\.m2\com\google\guava\guava\18.0\guava-18.0.jar;C:\Download\.m2\com\google\code\gson\gson\2.3.1\gson-2.3.1.jar;C:\Download\.m2\junit\junit\4.11\junit-4.11.jar;C:\Download\.m2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA 14.0.2\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain invia.Main
+Starting ChromeDriver 2.16.333243 (0bfa1d3575fc1044244f21ddb82bf870944ef961) on port 46413
+Only local connections are allowed.
+Link (page:1 hotel:0): http://hotel.invia.cz/turecko/alanya/happy-elegant/tour-925549/?id=63669521&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/happy-elegant/tour-925549/?id=63669521&airport%5B0%5D=1
+Link (page:1 hotel:1): http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+OUTPUT: | 59 960 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Španělsko, Mallorca, Santa Ponsa  | Delfin Siesta Mar Ai | http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+Link (page:1 hotel:2): http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+WARNING | 45 368 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko | Řecko, Kréta, Agia Pelagia  | Alexander House | http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+Link (page:1 hotel:3): http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+OUTPUT: | 59 060 Kč | 1. dítě do 7 let bungalov s výhledem do zahrady, dvoulůžkový pokoj/pokoj s oddělenými lůžky s... více | 2. dítě do 5 let bungalov s výhledem do zahrady | Dospělá osoba
+bungalov s výhledem do zahrady | Řecko, Rhodos, Ialyssos  | Filerimos | http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+Link (page:1 hotel:4): http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+OUTPUT: | 72 564 Kč | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Řecko, Rhodos, Kolymbia  | Niriides | http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+Link (page:1 hotel:5): http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+Link (page:1 hotel:6): http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+OUTPUT: | 57 960 Kč | 1. dítě do 18 let za letenku na pristýlce mladší | 2. dítě do 18 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Rhodos, Ialyssos  | Blue Bay | http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+Link (page:1 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+OUTPUT: | 48 360 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 3 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Turgutreis  | Bendis Beach | http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+Link (page:2 hotel:0): http://hotel.invia.cz/recko/kreta/eri-beach/tour-689311/?id=61699346&airport%5B0%5D=1
+OUTPUT: | 68 060 Kč | 1. dítě do 7 let standardní pokoj PROMO | 2. dítě do 5 let rodinný pokoj | Dospělá osoba
+standardní pokoj | Řecko, Kréta, Chersonissos  | Eri Beach & Village | http://hotel.invia.cz/recko/kreta/eri-beach/tour-689311/?id=61699346&airport%5B0%5D=1
+Link (page:2 hotel:1): http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+OUTPUT: | 59 960 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Španělsko, Mallorca, Santa Ponsa  | Delfin Siesta Mar Ai | http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+Link (page:2 hotel:2): http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+WARNING | 45 368 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko | Řecko, Kréta, Agia Pelagia  | Alexander House | http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+Link (page:2 hotel:3): http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+OUTPUT: | 59 060 Kč | 1. dítě do 7 let bungalov s výhledem do zahrady, dvoulůžkový pokoj/pokoj s oddělenými lůžky s... více | 2. dítě do 5 let bungalov s výhledem do zahrady | Dospělá osoba
+bungalov s výhledem do zahrady | Řecko, Rhodos, Ialyssos  | Filerimos | http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+Link (page:2 hotel:4): http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+OUTPUT: | 72 564 Kč | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Řecko, Rhodos, Kolymbia  | Niriides | http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+Link (page:2 hotel:5): http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+Link (page:2 hotel:6): http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+OUTPUT: | 57 960 Kč | 1. dítě do 18 let za letenku na pristýlce mladší | 2. dítě do 18 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Rhodos, Ialyssos  | Blue Bay | http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+Link (page:2 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+OUTPUT: | 48 360 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 3 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Turgutreis  | Bendis Beach | http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+Link (page:3 hotel:0): http://hotel.invia.cz/recko/kos/mitsis-norida-beach/tour-927874/?id=63856011&airport%5B0%5D=1
+OUTPUT: | 61 860 Kč | 1. dítě do 13 let za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Kos, Kardamena  | Mitsis Norida Beach | http://hotel.invia.cz/recko/kos/mitsis-norida-beach/tour-927874/?id=63856011&airport%5B0%5D=1
+Link (page:3 hotel:1): http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+OUTPUT: | 59 960 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Španělsko, Mallorca, Santa Ponsa  | Delfin Siesta Mar Ai | http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+Link (page:3 hotel:2): http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+WARNING | 45 368 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko | Řecko, Kréta, Agia Pelagia  | Alexander House | http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+Link (page:3 hotel:3): http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+OUTPUT: | 59 060 Kč | 1. dítě do 7 let bungalov s výhledem do zahrady, dvoulůžkový pokoj/pokoj s oddělenými lůžky s... více | 2. dítě do 5 let bungalov s výhledem do zahrady | Dospělá osoba
+bungalov s výhledem do zahrady | Řecko, Rhodos, Ialyssos  | Filerimos | http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+Link (page:3 hotel:4): http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+OUTPUT: | 72 564 Kč | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Řecko, Rhodos, Kolymbia  | Niriides | http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+Link (page:3 hotel:5): http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+Link (page:3 hotel:6): http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+OUTPUT: | 57 960 Kč | 1. dítě do 18 let za letenku na pristýlce mladší | 2. dítě do 18 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Rhodos, Ialyssos  | Blue Bay | http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+Link (page:3 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+OUTPUT: | 48 360 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 3 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Turgutreis  | Bendis Beach | http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+Link (page:4 hotel:0): http://hotel.invia.cz/spanelsko/costa-de-almeria/mediterraneo-park/tour-818491/?id=57365084&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/spanelsko/costa-de-almeria/mediterraneo-park/tour-818491/?id=57365084&airport%5B0%5D=1
+Link (page:4 hotel:1): http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+OUTPUT: | 59 960 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Španělsko, Mallorca, Santa Ponsa  | Delfin Siesta Mar Ai | http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+Link (page:4 hotel:2): http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+WARNING | 45 368 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko | Řecko, Kréta, Agia Pelagia  | Alexander House | http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+Link (page:4 hotel:3): http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+OUTPUT: | 59 060 Kč | 1. dítě do 7 let bungalov s výhledem do zahrady, dvoulůžkový pokoj/pokoj s oddělenými lůžky s... více | 2. dítě do 5 let bungalov s výhledem do zahrady | Dospělá osoba
+bungalov s výhledem do zahrady | Řecko, Rhodos, Ialyssos  | Filerimos | http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+Link (page:4 hotel:4): http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+OUTPUT: | 72 564 Kč | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Řecko, Rhodos, Kolymbia  | Niriides | http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+Link (page:4 hotel:5): http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+Link (page:4 hotel:6): http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+OUTPUT: | 57 960 Kč | 1. dítě do 18 let za letenku na pristýlce mladší | 2. dítě do 18 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Rhodos, Ialyssos  | Blue Bay | http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+Link (page:4 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+OUTPUT: | 48 360 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 3 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Turgutreis  | Bendis Beach | http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+Link (page:5 hotel:0): http://hotel.invia.cz/recko/kos/kipriotis-village/tour-888088/?id=58082937&airport%5B0%5D=1
+OUTPUT: | 75 936 Kč | 1. dítě 2-13 let A1A-Dvouluzkovy pokoj pro jednotlivce, A2A-Dvouluzkovy pokoj | 2. dítě 2-13 let A1A-Dvouluzkovy pokoj pro jednotlivce | Dospělá osoba
+A2A-Dvouluzkovy pokoj | Řecko, Kos, Psalidi  | Kipriotis Village | http://hotel.invia.cz/recko/kos/kipriotis-village/tour-888088/?id=58082937&airport%5B0%5D=1
+Link (page:5 hotel:1): http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+OUTPUT: | 59 960 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Španělsko, Mallorca, Santa Ponsa  | Delfin Siesta Mar Ai | http://hotel.invia.cz/spanelsko/mallorca/delfin-siesta-mar/tour-932238/?id=64167937&airport%5B0%5D=1
+Link (page:5 hotel:2): http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+WARNING | 45 368 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko | Řecko, Kréta, Agia Pelagia  | Alexander House | http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+Link (page:5 hotel:3): http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+OUTPUT: | 59 060 Kč | 1. dítě do 7 let bungalov s výhledem do zahrady, dvoulůžkový pokoj/pokoj s oddělenými lůžky s... více | 2. dítě do 5 let bungalov s výhledem do zahrady | Dospělá osoba
+bungalov s výhledem do zahrady | Řecko, Rhodos, Ialyssos  | Filerimos | http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+Link (page:5 hotel:4): http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+OUTPUT: | 72 564 Kč | 1. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-12 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžko
+odlet: Letisko Václava Havla - Praha | Řecko, Rhodos, Kolymbia  | Niriides | http://hotel.invia.cz/recko/rhodos/niriides-beach/tour-912761/?id=61488806&airport%5B0%5D=1
+Link (page:5 hotel:5): http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/turecko/alanya/kleopatra-dreams-beach/tour-917706/?id=62092656&airport%5B0%5D=1
+Link (page:5 hotel:6): http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+OUTPUT: | 57 960 Kč | 1. dítě do 18 let za letenku na pristýlce mladší | 2. dítě do 18 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Rhodos, Ialyssos  | Blue Bay | http://hotel.invia.cz/recko/rhodos/blue-bay/tour-833883/?id=59591133&airport%5B0%5D=1
+Link (page:5 hotel:7): http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+OUTPUT: | 48 360 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 3 let na přistýlce | Dospělá osoba ve 2lůžkovém pokoji | Turecko, Bodrum, Turgutreis  | Bendis Beach | http://hotel.invia.cz/turecko/egejska-riviera/bendis-beach/tour-832813/?id=62794309&airport%5B0%5D=1
+Exception in thread "main" org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=44.0.2403.125)
+  (Driver info: chromedriver=2.16.333243 (0bfa1d3575fc1044244f21ddb82bf870944ef961),platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 39 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.46.0', revision: '61506a4624b13675f24581e453592342b7485d71', time: '2015-06-04 10:22:50'
+System info: host: '115n', ip: '192.168.1.101', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_05'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\mirek\AppData\Local\Temp\scoped_dir16656_18037}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=44.0.2403.125, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2d5765976364438b1e6f398b5775f3aa
+*** Element info: {Using=xpath, value=//a[@data-page='6']}
+	at sun.reflect.GeneratedConstructorAccessor7.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:358)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:455)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+	at invia.Main.main(Main.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+
+Process finished with exit code 1
