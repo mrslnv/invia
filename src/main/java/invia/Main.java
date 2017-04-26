@@ -18,7 +18,7 @@ public class Main {
         System.setProperty("webdriver.chrome.driver", "w:\\Code\\Invia\\chromedriver.exe");
         driver = new ChromeDriver();
 
-        driver.get("http://last-minute.invia.cz/?nl_country_id%5B%5D=33&nl_country_id%5B%5D=22&nl_country_id%5B%5D=28&nl_country_id%5B%5D=30&nl_country_id%5B%5D=31&d_start_from=08.08.2015&d_end_to=31.08.2015&nl_length_int%5B%5D=6%7C9&nl_length_int%5B%5D=10%7C12&nl_stars%5B%5D=4&nl_stars%5B%5D=5&nl_meal_id%5B%5D=5&nl_meal_id%5B%5D=11&nl_transportation_id%5B%5D=3_1&nl_category_id%5B%5D=11&nl_type_id=3&sort=c_price");
+        driver.get("http://last-minute.invia.cz/?nl_country_id%5B%5D=33&nl_country_id%5B%5D=22&nl_country_id%5B%5D=28&nl_country_id%5B%5D=30&nl_country_id%5B%5D=33&nl_country_id%5B%5D=22&nl_country_id%5B%5D=28&nl_country_id%5B%5D=30&d_start_from=08.08.2015&d_end_to=31.08.2015&nl_length_int%5B%5D=6%7C9&nl_length_int%5B%5D=10%7C12&nl_stars%5B%5D=4&nl_stars%5B%5D=5&nl_meal_id%5B%5D=5&nl_meal_id%5B%5D=11&nl_transportation_id%5B%5D=3_1&nl_category_id%5B%5D=11&nl_type_id=3&sort=c_price");
 
         WebElement sorter = driver.findElement(By.cssSelector("p.search-results-sort-nav"));
         WebElement link = sorter.findElement(By.xpath(".//a[span[contains(text(),'nejlevnějšího')]]"));
@@ -27,10 +27,10 @@ public class Main {
         Thread.sleep(10000);
 
 
-        int i = 0;
-        pageNum = 1;
+        int i = 5;
+        pageNum = 2;
         do {
-            driver.get("http://last-minute.invia.cz/?nl_country_id%5B%5D=33&nl_country_id%5B%5D=22&nl_country_id%5B%5D=28&nl_country_id%5B%5D=30&nl_country_id%5B%5D=31&d_start_from=08.08.2015&d_end_to=31.08.2015&nl_length_int%5B%5D=6%7C9&nl_length_int%5B%5D=10%7C12&nl_stars%5B%5D=4&nl_stars%5B%5D=5&nl_meal_id%5B%5D=5&nl_meal_id%5B%5D=11&nl_transportation_id%5B%5D=3_1&nl_category_id%5B%5D=11&nl_type_id=3&sort=c_price");
+            driver.get("http://last-minute.invia.cz/?nl_country_id%5B%5D=33&nl_country_id%5B%5D=22&nl_country_id%5B%5D=28&nl_country_id%5B%5D=30&d_start_from=08.08.2015&d_end_to=31.08.2015&nl_length_int%5B%5D=6%7C9&nl_length_int%5B%5D=10%7C12&nl_stars%5B%5D=4&nl_stars%5B%5D=5&nl_meal_id%5B%5D=2&nl_meal_id%5B%5D=1&nl_transportation_id%5B%5D=3_1&nl_category_id%5B%5D=11&c_price_charges_from=&c_price_charges_to=&nl_distance_beach=-1&nd_review_rating_average=-1&s_hotel_invia=&nl_hotel_id_autocomplete=&nl_tour_id=&s_fulltext=&nd_price_discount_from=&nd_price_discount_to=&nl_type_id=3&sort=c_price");
 
             if (pageNum > 1) {
                 WebElement nextPage = null;

@@ -1,0 +1,99 @@
+Starting ChromeDriver 2.16.333243 (0bfa1d3575fc1044244f21ddb82bf870944ef961) on port 17496
+Only local connections are allowed.
+Link (page:1 hotel:0): http://hotel.invia.cz/recko/korfu/alexandros/tour-941113/?id=65478342&airport%5B0%5D=1
+OUTPUT: | 53 200 Kč | 1. dítě do 11 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj (3 dospělých... více | 2. dítě 2-11 let Dvoulůžkový pokoj (2 dospělých + 2 dětí), Dvoulůžkový pokoj Výhled moře (2... více | Dospělá osobaDvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (2 dospělých... více | Řecko, Korfu, Perama | Alexandros | http://hotel.invia.cz/recko/korfu/alexandros/tour-941113/?id=65478342&airport%5B0%5D=1
+Link (page:1 hotel:1): http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+WARNING | 54 760 Kč | 1. dítě do 12 let standardní pokoj PROMO, standardní pokoj | 1. dítě do 7 let bungalov s výhledem do zahrady, dvoulůžkový pokoj/pokoj s oddělenými lůžky s... více | Dospělá osobabungalov s výhledem do zahrady | Řecko, Rhodos, Ialyssos  | Filerimos | http://hotel.invia.cz/recko/rhodos/filerimos-village/tour-170349/?id=60091400&airport%5B0%5D=1
+Link (page:1 hotel:2): http://hotel.invia.cz/recko/kreta/diogenis-palace/tour-628797/?id=65697514&airport%5B0%5D=1
+OUTPUT: | 91 860 Kč | 1. dítě do 13 let standardní pokoj, dvoulůžkový pokoj/pokoj s oddělenými lůžky, pokoj s... více | 2. dítě do 5 let standardní pokoj, dvoulůžkový pokoj/pokoj s oddělenými lůžky, Standardní... více | Dospělá osobaRodinný Pokoj | Řecko, Kréta, Kato Gouves  | Diogenis Palace | http://hotel.invia.cz/recko/kreta/diogenis-palace/tour-628797/?id=65697514&airport%5B0%5D=1
+Link (page:1 hotel:3): http://hotel.invia.cz/recko/rhodos/ocean-blue/tour-689317/?id=63757934&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/ocean-blue/tour-689317/?id=63757934&airport%5B0%5D=1
+Link (page:1 hotel:4): http://hotel.invia.cz/recko/kreta/evelyn-beach/tour-787615/?id=59075603&airport%5B0%5D=1
+WARNING | 39 890 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko1. osoba | Řecko, Kréta, Chersonissos  | Evelyn Beach | http://hotel.invia.cz/recko/kreta/evelyn-beach/tour-787615/?id=59075603&airport%5B0%5D=1
+Link (page:1 hotel:5): http://hotel.invia.cz/recko/kreta/klio-apartmany/tour-845455/?id=61379102&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kreta/klio-apartmany/tour-845455/?id=61379102&airport%5B0%5D=1
+Link (page:1 hotel:6): http://hotel.invia.cz/recko/kreta/marilena/tour-777576/?id=61886683&airport%5B0%5D=1
+OUTPUT: | 68 460 Kč | 1. dítě 5-14 let nadstandardní pokoj, nadstandardní pokoj PROMO | 2. dítě do 5 let nadstandardní pokoj | Dospělá osobanadstandardní pokoj | Řecko, Kréta, Ammoudara  | Marilena | http://hotel.invia.cz/recko/kreta/marilena/tour-777576/?id=61886683&airport%5B0%5D=1
+Link (page:1 hotel:7): http://hotel.invia.cz/recko/rhodos/medblue-fanes-ex-nautica-blue/tour-731788/?id=64821911&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/medblue-fanes-ex-nautica-blue/tour-731788/?id=64821911&airport%5B0%5D=1
+Link (page:2 hotel:0): http://hotel.invia.cz/recko/kos/apollon/tour-732654/?id=67142015&airport%5B0%5D=1
+OUTPUT: | 55 560 Kč | 1. dítě 6-12 let Standardní pokoj pro 2-4 osoby, Standardní pokoj pro 2-3 osoby | 2. dítě do 12 let Standardní pokoj pro 2-4 osoby | Dospělá osobaStandardní pokoj pro 2-4 osoby, Standardní pokoj pro 2-3 osoby | Řecko, Kos, Lambi  | Hotel Apollon | http://hotel.invia.cz/recko/kos/apollon/tour-732654/?id=67142015&airport%5B0%5D=1
+Link (page:2 hotel:1): http://hotel.invia.cz/recko/rhodos/belmare/tour-887436/?id=59245233&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/belmare/tour-887436/?id=59245233&airport%5B0%5D=1
+Link (page:2 hotel:2): http://hotel.invia.cz/recko/zakynthos/majestic-spa/tour-957561/?id=68280444&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/zakynthos/majestic-spa/tour-957561/?id=68280444&airport%5B0%5D=1
+Link (page:2 hotel:3): http://hotel.invia.cz/recko/korfu/blue-princess-beach/tour-903699/?id=59648916&airport%5B0%5D=1
+OUTPUT: | 53 060 Kč | 1. dítě do 13 let za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Korfu, Liapades | Miro Blue Princess Beach | http://hotel.invia.cz/recko/korfu/blue-princess-beach/tour-903699/?id=59648916&airport%5B0%5D=1
+Link (page:2 hotel:4): http://hotel.invia.cz/recko/kos/akti-kalimera-kos/tour-839541/?id=58338690&airport%5B0%5D=1
+OUTPUT: | 73 960 Kč | 1. dítě 2-14 let Dvoulůžkový pokoj Promo (2 dospělých + 1 dětí), Dvoulůžkový pokoj (2... více | 2. dítě 2-14 let Rodinný pokoj 1 ložnice (2 dospělých + 2 dětí) | Dospělá osobaRodinný pokoj 1 ložnice (2 dospělých + 1 dětí), Rodinný pokoj 1 ložnice (2... více | Řecko, Kos, Kardamena | Funtazie Klub Akti Kalimera Kos | http://hotel.invia.cz/recko/kos/akti-kalimera-kos/tour-839541/?id=58338690&airport%5B0%5D=1
+Link (page:2 hotel:5): http://hotel.invia.cz/recko/kreta/klio-apartmany/tour-845455/?id=61379102&airport%5B0%5D=1
+Link (page:2 hotel:5): http://hotel.invia.cz/recko/kreta/elmi-suites/tour-900563/?id=59098179&airport%5B0%5D=1
+OUTPUT: | 57 960 Kč | 1. dítě 2-12 let na přistýlce | 2. dítě 2-12 let na přistýlce | Dospělá osoba | Řecko, Kréta, Chersonissos  | Elmi Suites | http://hotel.invia.cz/recko/kreta/elmi-suites/tour-900563/?id=59098179&airport%5B0%5D=1
+Link (page:2 hotel:6): http://hotel.invia.cz/recko/rhodos/memphis-beach/tour-896695/?id=58382760&airport%5B0%5D=1
+WARNING | 41 970 Kč | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 1. dítě 2-12 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | Dospělá osobaDvoulůžkový pokoj (2 dospělých + 0 dětí), Dvoulůžkový pokoj (3 dospělých... více | Řecko, Rhodos, Kolymbia  | Memphis Beach | http://hotel.invia.cz/recko/rhodos/memphis-beach/tour-896695/?id=58382760&airport%5B0%5D=1
+Link (page:2 hotel:7): http://hotel.invia.cz/recko/limnos/diamantidis/tour-952796/?id=67519228&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/limnos/diamantidis/tour-952796/?id=67519228&airport%5B0%5D=1
+Link (page:3 hotel:0): http://hotel.invia.cz/spanelsko/mallorca/pollensa-park-spa/tour-732525/?id=68290568&airport%5B0%5D=1
+WARNING | 48 270 Kč | 1. dítě 7-12 let Pokoj pro 2-3 osoby Sea Front | 1. dítě 7-12 let Pokoj pro 2-3 osoby Sea Front | Dospělá osobaPokoj pro 2-3 osoby Sea Front | Španělsko, Mallorca, Puerto de Pollensa  | Fergus Style Pollensa Park & Spa | http://hotel.invia.cz/spanelsko/mallorca/pollensa-park-spa/tour-732525/?id=68290568&airport%5B0%5D=1
+Link (page:3 hotel:1): http://hotel.invia.cz/recko/rhodos/golden-odyssey/tour-902352/?id=59356420&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/rhodos/golden-odyssey/tour-902352/?id=59356420&airport%5B0%5D=1
+Link (page:3 hotel:2): http://hotel.invia.cz/recko/zakynthos/palazzo-di-zante/tour-903661/?id=59646116&airport%5B0%5D=1
+WARNING | 41 570 Kč | 1. dítě do 15 let na přistýlce za letenku na pristýlce mladší | 1. dítě do 15 let na přistýlce za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Zakynthos, Vassilikos  | Palazzo Di Zante - Economy | http://hotel.invia.cz/recko/zakynthos/palazzo-di-zante/tour-903661/?id=59646116&airport%5B0%5D=1
+Link (page:3 hotel:3): http://hotel.invia.cz/recko/rhodos/eagles-nest/tour-952087/?id=67419597&airport%5B0%5D=1
+WARNING | 42 890 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko1. osoba | Řecko, Rhodos, Pefkos | Eagles Nest | http://hotel.invia.cz/recko/rhodos/eagles-nest/tour-952087/?id=67419597&airport%5B0%5D=1
+Link (page:3 hotel:4): http://hotel.invia.cz/recko/zakynthos/zante-plaza/tour-784246/?id=66981414&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/zakynthos/zante-plaza/tour-784246/?id=66981414&airport%5B0%5D=1
+Link (page:3 hotel:5): http://hotel.invia.cz/recko/kos/euro-village-achilleas/tour-903653/?id=59645235&airport%5B0%5D=1
+OUTPUT: | 51 160 Kč | 1. dítě do 14 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 7 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Kos, Mastichari  | Eurovillage Achilleas New | http://hotel.invia.cz/recko/kos/euro-village-achilleas/tour-903653/?id=59645235&airport%5B0%5D=1
+Link (page:3 hotel:6): http://hotel.invia.cz/recko/kos/princess-of-kos/tour-833670/?id=59587361&airport%5B0%5D=1
+OUTPUT: | 56 760 Kč | 1. dítě do 13 let na přistýlce za letenku na pristýlce mladší | 2. dítě do 13 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Kos, Mastichari  | Princess Of Kos | http://hotel.invia.cz/recko/kos/princess-of-kos/tour-833670/?id=59587361&airport%5B0%5D=1
+Link (page:3 hotel:7): http://hotel.invia.cz/recko/kreta/gouves-sea-mare/tour-875754/?id=67745418&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kreta/gouves-sea-mare/tour-875754/?id=67745418&airport%5B0%5D=1
+Link (page:4 hotel:0): http://hotel.invia.cz/recko/kreta/heronissos/tour-346179/?id=61526670&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kreta/heronissos/tour-346179/?id=61526670&airport%5B0%5D=1
+Link (page:4 hotel:1): http://hotel.invia.cz/recko/zakynthos/zante-imperial/tour-912773/?id=61489492&airport%5B0%5D=1
+OUTPUT: | 49 088 Kč | 1. dítě 2-13 let na přistýlce odlet: Letisko Václava Havla - Praha | 2. dítě 2-13 let na přistýlce odlet: Letisko Václava Havla - Praha | Dospělá osoba - pevné lůžkoodlet: Letisko Václava Havla - Praha | Řecko, Zakynthos, Vassilikos | Zante Imperial Beach | http://hotel.invia.cz/recko/zakynthos/zante-imperial/tour-912773/?id=61489492&airport%5B0%5D=1
+Link (page:4 hotel:2): http://hotel.invia.cz/recko/kreta/sunshine-crete-village/tour-833389/?id=59656023&airport%5B0%5D=1
+OUTPUT: | 51 760 Kč | 1. dítě do 14 let za letenku na pristýlce mladší | 2. dítě do 14 let za letenku na pristýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Kréta, Ierapetra  | Sunshine Crete Village | http://hotel.invia.cz/recko/kreta/sunshine-crete-village/tour-833389/?id=59656023&airport%5B0%5D=1
+Link (page:4 hotel:3): http://hotel.invia.cz/recko/kreta/semiramis/tour-839592/?id=58352311&airport%5B0%5D=1
+OUTPUT: | 58 400 Kč | 1. dítě 7-13 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 1... více | 2. dítě 2-13 let Dvoulůžkový pokoj (1 dospělých + 2 dětí), Rodinný pokoj (2 dospělých + 2... více | Dospělá osobaDvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (1 dospělých... více | Řecko, Kréta, Chersonissos  | Semiramis | http://hotel.invia.cz/recko/kreta/semiramis/tour-839592/?id=58352311&airport%5B0%5D=1
+Link (page:4 hotel:4): http://hotel.invia.cz/recko/leros/crithonis-paradise/tour-946123/?id=66128742&airport%5B0%5D=1
+OUTPUT: | 55 160 Kč | 1. dítě do 14 let za letenku na pristýlce mladší | 2. dítě do 14 let na přistýlce mladší | Dospělá osoba ve 2lůžkovém pokoji | Řecko, Leros, Agia Marina | Crithonis Paradise Ai | http://hotel.invia.cz/recko/leros/crithonis-paradise/tour-946123/?id=66128742&airport%5B0%5D=1
+Link (page:4 hotel:5): http://hotel.invia.cz/recko/korfu/paleo-art-nouveau-ex-paleokastritsa/tour-957699/?id=68308607&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/korfu/paleo-art-nouveau-ex-paleokastritsa/tour-957699/?id=68308607&airport%5B0%5D=1
+Link (page:4 hotel:6): http://hotel.invia.cz/recko/zakynthos/zante-village/tour-732472/?id=58815171&airport%5B0%5D=1
+WARNING | 45 970 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko1. osoba | Řecko, Zakynthos, Alikanas  | Zante Village | http://hotel.invia.cz/recko/zakynthos/zante-village/tour-732472/?id=58815171&airport%5B0%5D=1
+Link (page:4 hotel:7): http://hotel.invia.cz/recko/kos/ammos/tour-519310/?id=57555916&airport%5B0%5D=1
+WARNING | 43 970 Kč | 1. dítě 2-12 let na přistýlce 2lůžkový pokoj - 2/1 | 1. dítě 2-12 let na přistýlce 2lůžkový pokoj - 2/1 | Dospělá osoba ve 2lůžkovém pokojipokoj - 2/1 | Řecko, Kos, Mastichari  | Ammos | http://hotel.invia.cz/recko/kos/ammos/tour-519310/?id=57555916&airport%5B0%5D=1
+Link (page:5 hotel:0): http://hotel.invia.cz/recko/kos/corali/tour-839551/?id=58340670&airport%5B0%5D=1
+WARNING | 59 430 Kč | 1. dítě 2-14 let Dvoulůžkový pokoj (1 dospělých + 1 dětí) | 1. dítě 2-14 let Dvoulůžkový pokoj (1 dospělých + 1 dětí) | Dospělá osobaDvoulůžkový pokoj (1 dospělých + 0 dětí) | Řecko, Kos, Tigaki  | Corali | http://hotel.invia.cz/recko/kos/corali/tour-839551/?id=58340670&airport%5B0%5D=1
+Link (page:5 hotel:1): http://hotel.invia.cz/recko/korfu/memento-kassiopi-resort/tour-839755/?id=60414132&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/korfu/memento-kassiopi-resort/tour-839755/?id=60414132&airport%5B0%5D=1
+Link (page:5 hotel:2): http://hotel.invia.cz/recko/kreta/maravel/tour-244656/?id=61480816&airport%5B0%5D=1
+WARNING | 57 360 Kč | 1. dítě 5-14 let standardní pokoj, standardní pokoj PROMO | 1. dítě do 7 let dvoulůžkový pokoj/pokoj s oddělenými lůžky s výhledem do krajiny | Dospělá osobastandardní pokoj | Řecko, Kréta, Adelianos Kampos  | Maravel | http://hotel.invia.cz/recko/kreta/maravel/tour-244656/?id=61480816&airport%5B0%5D=1
+Link (page:5 hotel:3): http://hotel.invia.cz/spanelsko/mallorca/globales-america/tour-732554/?id=68290339&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/spanelsko/mallorca/globales-america/tour-732554/?id=68290339&airport%5B0%5D=1
+Link (page:5 hotel:4): http://hotel.invia.cz/recko/kos/asteras-resort/tour-901552/?id=59287712&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kos/asteras-resort/tour-901552/?id=59287712&airport%5B0%5D=1
+Link (page:5 hotel:5): http://hotel.invia.cz/recko/zakynthos/village-inn/tour-804420/?id=58815266&airport%5B0%5D=1
+WARNING | 44 690 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko1. osoba | Řecko, Zakynthos, Laganas  | Village Inn | http://hotel.invia.cz/recko/zakynthos/village-inn/tour-804420/?id=58815266&airport%5B0%5D=1
+Link (page:5 hotel:6): http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+WARNING | 45 368 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko | Řecko, Kréta, Agia Pelagia  | Alexander House | http://hotel.invia.cz/recko/kreta/alexander-house/tour-924530/?id=63503891&airport%5B0%5D=1
+Link (page:5 hotel:7): http://hotel.invia.cz/recko/kos/sovereign-beach/tour-951324/?id=68185046&airport%5B0%5D=1
+OUTPUT: | 56 260 Kč | 1. dítě do 12 let Standardní pokoj pro 2-4 osoby | 2. dítě do 12 let Standardní pokoj pro 2-4 osoby | Dospělá osobaStandardní pokoj pro 2-4 osoby | Řecko, Kos, Kardamena | Hotel Sovereign Beach | http://hotel.invia.cz/recko/kos/sovereign-beach/tour-951324/?id=68185046&airport%5B0%5D=1
+Link (page:6 hotel:0): http://hotel.invia.cz/recko/kreta/dessole-blue-star/tour-903713/?id=59651228&airport%5B0%5D=1
+NOT ACCEPTABLE http://hotel.invia.cz/recko/kreta/dessole-blue-star/tour-903713/?id=59651228&airport%5B0%5D=1
+Link (page:6 hotel:1): http://hotel.invia.cz/recko/korfu/cyprotel-almyros-natura/tour-951325/?id=67121681&airport%5B0%5D=1
+OUTPUT: | 56 960 Kč | 1. dítě do 13 let Maisonette 2-4 os., Standardní pokoj pro 2-3 osoby | 2. dítě do 13 let Maisonette 2-4 os. | Dospělá osobaStandardní pokoj pro 2-3 osoby, Maisonette 2-4 os. | Řecko, Korfu, Acharavi  | Hotel Cyprotel Almyros Natura Beach | http://hotel.invia.cz/recko/korfu/cyprotel-almyros-natura/tour-951325/?id=67121681&airport%5B0%5D=1
+Link (page:6 hotel:2): http://hotel.invia.cz/recko/korfu/lido-corfu-sun/tour-876878/?id=65942537&airport%5B0%5D=1
+WARNING | 45 570 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko1. osoba | Řecko, Korfu, Benitses  | Lido Corfu Sun | http://hotel.invia.cz/recko/korfu/lido-corfu-sun/tour-876878/?id=65942537&airport%5B0%5D=1
+Link (page:6 hotel:3): http://hotel.invia.cz/recko/kreta/vantaris-garden/tour-871731/?id=59753570&airport%5B0%5D=1
+OUTPUT: | 67 288 Kč | 1. dítě 2-11 let Apartmá (2 dospělých + 1 dětí), Apartmá (3 dospělých + 1 dětí), Apartmá... více | 2. dítě 2-11 let Apartmá (2 dospělých + 2 dětí), Apartmá Standard Mezonet (2 dospělých + 2... více | Dospělá osobaApartmá (2 dospělých + 1 dětí), Apartmá (2 dospělých + 2 dětí), Apartmá... více | Řecko, Kréta, Kavros  | Vantaris Garden & Corner | http://hotel.invia.cz/recko/kreta/vantaris-garden/tour-871731/?id=59753570&airport%5B0%5D=1
+Link (page:6 hotel:4): http://hotel.invia.cz/recko/kreta/blue-bay/tour-834499/?id=58330288&airport%5B0%5D=1
+OUTPUT: | 47 970 Kč | 1. dítě 2-12 let Bungalov Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | 1. dítě 2-12 let Bungalov Seaside (2 dospělých + 1 dětí), Dvoulůžkový pokoj Promo (2... více | Dospělá osobaBungalov Seaside (2 dospělých + 1 dětí), Bungalov Seaside (2 dospělých + 0... více | Řecko, Kréta, Agia Pelagia  | Blue Bay | http://hotel.invia.cz/recko/kreta/blue-bay/tour-834499/?id=58330288&airport%5B0%5D=1
+Link (page:6 hotel:5): http://hotel.invia.cz/recko/rhodos/aqua-beach-blue-bay-family-world/tour-843162/?id=62286871&airport%5B0%5D=1
+OUTPUT: | 67 527 Kč | 1. dítě 2-13 let Dvoulůžkový pokoj (2 dospělých + 1 dětí), Dvoulůžkový pokoj Dependance (2... více | 2. dítě 2-13 let Rodinný pokoj (2 dospělých + 2 dětí) | Dospělá osobaRodinný pokoj (2 dospělých + 1 dětí), Rodinný pokoj (2 dospělých + 2... více | Řecko, Rhodos, Ialyssos | Family World Aqua Blue Bay | http://hotel.invia.cz/recko/rhodos/aqua-beach-blue-bay-family-world/tour-843162/?id=62286871&airport%5B0%5D=1
+Link (page:6 hotel:6): http://hotel.invia.cz/recko/kreta/arminda/tour-839517/?id=58361796&airport%5B0%5D=1
+OUTPUT: | 53 960 Kč | 1. dítě 2-11 let Dvoulůžkový pokoj (2 dospělých + 1 dětí) | 2. dítě 2-11 let Dvoulůžkový pokoj (1 dospělých + 2 dětí) | Dospělá osobaDvoulůžkový pokoj (1 dospělých + 1 dětí), Dvoulůžkový pokoj (1 dospělých... více | Řecko, Kréta, Chersonissos  | Arminda & Spa | http://hotel.invia.cz/recko/kreta/arminda/tour-839517/?id=58361796&airport%5B0%5D=1
+Link (page:6 hotel:7): http://hotel.invia.cz/recko/korfu/grande-mare-ex-costa-blu/tour-702377/?id=60815969&airport%5B0%5D=1
+WARNING | 46 970 Kč | 1. dítě 2-11 let | 1. dítě 2-11 let | Dospělá osoba - pevné lůžko1. dospělá osoba | Řecko, Korfu, Korfu (Kerkira) | Grande Mare (Ex Costa Blu) | http://hotel.invia.cz/recko/korfu/grande-mare-ex-costa-blu/tour-702377/?id=60815969&airport%5B0%5D=1

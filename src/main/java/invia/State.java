@@ -1,12 +1,14 @@
 package invia;
 
 public class State {
+    private static final int YOUNGER_CHILD = 3;
     private boolean adultsOK = false;
     private boolean child3OK = false;
     private boolean child6OK = false;
     public String string6;
     public String string3;
     public String stringAdult;
+    private static final int OLDER_CHILD = 8;
 
     public boolean isAdultOk(){
         return adultsOK;
@@ -23,7 +25,7 @@ public class State {
 
     public boolean childOk(String limit, String text){
         int num = Integer.parseInt(limit);
-        if (num >= 6)
+        if (num >= OLDER_CHILD)
             if (tryBook6()) {
                 string6 = text;
                 return true;
@@ -32,7 +34,7 @@ public class State {
                     string3 = text;
                     return true;
                 }
-        if (num >= 3)
+        if (num >= YOUNGER_CHILD)
             if (tryBook3()) {
                 string3 = text;
                 return true;
